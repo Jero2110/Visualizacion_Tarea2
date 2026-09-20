@@ -1,0 +1,996 @@
+Nombre,Categoría,Calificación,Precio promedio (USD),Número de reseñas,Latitud,Longitud,geometry,departamento
+Restaurante 1,China,4.8,38,344,4.67,-74.14,POINT (-74.14 4.67),BOGOTA D.C.
+Restaurante 2,Francesa,4.2,14,264,3.6,-75.6,POINT (-75.6 3.6),TOLIMA
+Restaurante 3,Francesa,3.3,21,252,5.83,-76.09,POINT (-76.09 5.83),ANTIOQUIA
+Restaurante 4,Peruana,3.6,22,299,6.26,-74.45,POINT (-74.45 6.26),SANTANDER
+Restaurante 5,Italiana,4.7,31,411,4.49,-75.74,POINT (-75.74 4.49),QUINDIO
+Restaurante 6,China,2.7,49,306,3.86,-75.06,POINT (-75.06 3.86),TOLIMA
+Restaurante 7,Francesa,2.3,24,124,4.38,-75.56,POINT (-75.56 4.38),TOLIMA
+Restaurante 8,Colombiana,4.9,22,393,5.15,-75.53,POINT (-75.53 5.15),CALDAS
+Restaurante 9,China,4.5,10,251,4.35,-74.74,POINT (-74.74 4.35),CUNDINAMARCA
+Restaurante 10,Italiana,2.3,47,191,5.23,-75.63,POINT (-75.63 5.23),CALDAS
+Restaurante 11,Mexicana,2.9,10,255,6.3,-74.84,POINT (-74.84 6.3),ANTIOQUIA
+Restaurante 12,Japonesa,2.7,20,248,5.41,-76.47,POINT (-76.47 5.41),CHOCO
+Restaurante 13,Francesa,1.6,49,456,4.49,-75.72,POINT (-75.72 4.49),QUINDIO
+Restaurante 14,Colombiana,4.8,31,220,6.21,-75.73,POINT (-75.73 6.21),ANTIOQUIA
+Restaurante 15,Italiana,2.6,44,455,5.1,-74.7,POINT (-74.7 5.1),CUNDINAMARCA
+Restaurante 16,China,4.5,15,365,3.79,-75.75,POINT (-75.75 3.79),TOLIMA
+Restaurante 17,Japonesa,1.8,37,277,4.9,-74.98,POINT (-74.98 4.9),TOLIMA
+Restaurante 18,Japonesa,3.2,40,460,5.36,-74.85,POINT (-74.85 5.36),CALDAS
+Restaurante 19,Francesa,1.1,17,489,5.91,-74.92,POINT (-74.92 5.91),ANTIOQUIA
+Restaurante 20,Italiana,4.1,14,435,6.21,-75.05,POINT (-75.05 6.21),ANTIOQUIA
+Restaurante 21,Italiana,3.3,26,472,4.35,-75.51,POINT (-75.51 4.35),TOLIMA
+Restaurante 22,Colombiana,3.5,47,228,3.87,-75.6,POINT (-75.6 3.87),TOLIMA
+Restaurante 23,Mexicana,1.2,18,415,3.62,-75.14,POINT (-75.14 3.62),TOLIMA
+Restaurante 24,Mexicana,1.8,19,324,5.62,-76.35,POINT (-76.35 5.62),CHOCO
+Restaurante 25,Peruana,1.3,29,111,5.79,-74.4,POINT (-74.4 5.79),BOYACA
+Restaurante 26,Mexicana,2.2,23,376,4.63,-74.52,POINT (-74.52 4.63),CUNDINAMARCA
+Restaurante 27,Peruana,3.5,23,253,4.59,-75.67,POINT (-75.67 4.59),QUINDIO
+Restaurante 28,Japonesa,3.3,35,496,6.26,-75.14,POINT (-75.14 6.26),ANTIOQUIA
+Restaurante 29,Japonesa,3.4,38,416,6.15,-74.26,POINT (-74.26 6.15),SANTANDER
+Restaurante 30,China,3.2,36,182,4.1,-75.85,POINT (-75.85 4.1),VALLE DEL CAUCA
+Restaurante 31,Japonesa,2.1,34,121,5.74,-74.72,POINT (-74.72 5.74),CALDAS
+Restaurante 32,Japonesa,2.0,25,127,5.27,-76.3,POINT (-76.3 5.27),RISARALDA
+Restaurante 33,Italiana,1.5,45,238,3.86,-75.24,POINT (-75.24 3.86),TOLIMA
+Restaurante 34,China,4.4,43,405,4.47,-74.38,POINT (-74.38 4.47),CUNDINAMARCA
+Restaurante 35,Italiana,3.5,25,120,3.93,-75.18,POINT (-75.18 3.93),TOLIMA
+Restaurante 36,Colombiana,1.7,42,312,4.29,-75.02,POINT (-75.02 4.29),TOLIMA
+Restaurante 37,Peruana,1.7,12,355,5.25,-74.32,POINT (-74.32 5.25),CUNDINAMARCA
+Restaurante 38,Peruana,4.5,32,95,4.53,-74.78,POINT (-74.78 4.53),CUNDINAMARCA
+Restaurante 39,Colombiana,4.0,20,273,4.58,-74.83,POINT (-74.83 4.58),TOLIMA
+Restaurante 40,Peruana,3.6,27,377,5.02,-75.09,POINT (-75.09 5.02),TOLIMA
+Restaurante 41,China,2.6,38,299,3.66,-74.98,POINT (-74.98 3.66),TOLIMA
+Restaurante 42,China,2.0,14,125,5.62,-74.57,POINT (-74.57 5.62),CUNDINAMARCA
+Restaurante 43,Japonesa,4.9,33,123,4.61,-74.15,POINT (-74.15 4.61),BOGOTA D.C.
+Restaurante 44,Peruana,4.2,38,191,4.84,-74.59,POINT (-74.59 4.84),CUNDINAMARCA
+Restaurante 45,Colombiana,2.2,38,122,6.32,-74.8,POINT (-74.8 6.32),ANTIOQUIA
+Restaurante 46,Francesa,4.4,35,151,4.43,-76.17,POINT (-76.17 4.43),VALLE DEL CAUCA
+Restaurante 47,Mexicana,4.0,49,143,5.34,-74.54,POINT (-74.54 5.34),CUNDINAMARCA
+Restaurante 48,Japonesa,2.2,12,118,4.58,-74.73,POINT (-74.73 4.58),CUNDINAMARCA
+Restaurante 49,Mexicana,2.7,11,114,6.08,-74.65,POINT (-74.65 6.08),ANTIOQUIA
+Restaurante 50,Colombiana,1.7,34,242,5.94,-75.95,POINT (-75.95 5.94),ANTIOQUIA
+Restaurante 51,Peruana,1.4,28,490,4.12,-74.33,POINT (-74.33 4.12),BOGOTA D.C.
+Restaurante 52,Peruana,3.9,49,111,5.48,-76.27,POINT (-76.27 5.48),CHOCO
+Restaurante 53,Mexicana,2.1,11,69,3.6,-75.89,POINT (-75.89 3.6),TOLIMA
+Restaurante 54,Francesa,4.3,28,290,6.29,-74.91,POINT (-74.91 6.29),ANTIOQUIA
+Restaurante 55,Peruana,5.0,10,252,4.45,-74.88,POINT (-74.88 4.45),TOLIMA
+Restaurante 56,Francesa,1.3,36,459,5.9,-75.75,POINT (-75.75 5.9),ANTIOQUIA
+Restaurante 57,Italiana,2.9,44,349,4.36,-74.82,POINT (-74.82 4.36),CUNDINAMARCA
+Restaurante 58,China,4.2,14,244,5.3,-75.57,POINT (-75.57 5.3),CALDAS
+Restaurante 59,Mexicana,4.2,47,111,6.35,-76.5,POINT (-76.5 6.35),ANTIOQUIA
+Restaurante 60,Peruana,4.0,13,156,6.03,-76.11,POINT (-76.11 6.03),ANTIOQUIA
+Restaurante 61,Francesa,2.4,26,174,3.88,-74.38,POINT (-74.38 3.88),CUNDINAMARCA
+Restaurante 62,Peruana,2.8,30,350,5.04,-75.97,POINT (-75.97 5.04),RISARALDA
+Restaurante 63,China,3.4,40,316,4.45,-76.23,POINT (-76.23 4.45),VALLE DEL CAUCA
+Restaurante 64,China,4.9,31,251,4.7,-74.86,POINT (-74.86 4.7),TOLIMA
+Restaurante 65,Italiana,2.3,20,211,4.41,-75.44,POINT (-75.44 4.41),TOLIMA
+Restaurante 66,China,4.7,43,393,4.41,-74.59,POINT (-74.59 4.41),CUNDINAMARCA
+Restaurante 67,China,2.1,24,351,5.03,-74.43,POINT (-74.43 5.03),CUNDINAMARCA
+Restaurante 68,Japonesa,5.0,19,161,3.98,-74.47,POINT (-74.47 3.98),CUNDINAMARCA
+Restaurante 69,Colombiana,3.7,47,386,5.01,-75.75,POINT (-75.75 5.01),RISARALDA
+Restaurante 70,Peruana,2.9,41,81,4.24,-75.29,POINT (-75.29 4.24),TOLIMA
+Restaurante 71,Italiana,3.5,40,147,4.27,-74.94,POINT (-74.94 4.27),TOLIMA
+Restaurante 72,Italiana,2.1,46,296,5.62,-75.73,POINT (-75.73 5.62),ANTIOQUIA
+Restaurante 73,Mexicana,2.1,37,310,3.49,-76.4,POINT (-76.4 3.49),VALLE DEL CAUCA
+Restaurante 74,China,1.5,40,240,4.54,-75.31,POINT (-75.31 4.54),TOLIMA
+Restaurante 75,Mexicana,1.5,15,78,4.62,-76.47,POINT (-76.47 4.62),CHOCO
+Restaurante 76,Japonesa,2.4,23,97,4.86,-74.22,POINT (-74.22 4.86),CUNDINAMARCA
+Restaurante 77,Francesa,4.1,32,299,5.41,-74.59,POINT (-74.59 5.41),CUNDINAMARCA
+Restaurante 78,China,3.4,25,275,4.51,-76.04,POINT (-76.04 4.51),VALLE DEL CAUCA
+Restaurante 79,Francesa,1.4,34,321,4.04,-75.81,POINT (-75.81 4.04),VALLE DEL CAUCA
+Restaurante 80,Colombiana,4.4,48,202,6.05,-74.14,POINT (-74.14 6.05),SANTANDER
+Restaurante 81,Japonesa,3.4,11,377,6.34,-75.6,POINT (-75.6 6.34),ANTIOQUIA
+Restaurante 82,China,4.8,47,334,3.46,-74.62,POINT (-74.62 3.46),HUILA
+Restaurante 83,Mexicana,3.7,48,229,5.04,-75.43,POINT (-75.43 5.04),CALDAS
+Restaurante 84,Mexicana,1.7,43,351,4.43,-74.43,POINT (-74.43 4.43),CUNDINAMARCA
+Restaurante 85,China,2.9,49,202,4.23,-74.81,POINT (-74.81 4.23),TOLIMA
+Restaurante 86,Peruana,3.6,34,283,4.41,-76.45,POINT (-76.45 4.41),VALLE DEL CAUCA
+Restaurante 87,Mexicana,1.1,45,72,5.32,-75.79,POINT (-75.79 5.32),RISARALDA
+Restaurante 88,Peruana,1.1,25,467,3.97,-75.16,POINT (-75.16 3.97),TOLIMA
+Restaurante 89,China,1.5,27,143,6.14,-74.28,POINT (-74.28 6.14),SANTANDER
+Restaurante 90,Italiana,2.0,22,419,4.8,-76.26,POINT (-76.26 4.8),CHOCO
+Restaurante 91,Mexicana,2.7,46,294,4.38,-75.06,POINT (-75.06 4.38),TOLIMA
+Restaurante 92,Peruana,2.9,36,339,5.7,-75.77,POINT (-75.77 5.7),ANTIOQUIA
+Restaurante 93,China,1.6,43,209,3.45,-74.37,POINT (-74.37 3.45),META
+Restaurante 94,China,3.7,20,422,4.7,-74.66,POINT (-74.66 4.7),CUNDINAMARCA
+Restaurante 95,Peruana,3.4,10,334,4.47,-75.61,POINT (-75.61 4.47),QUINDIO
+Restaurante 96,Mexicana,2.2,22,58,4.41,-76.1,POINT (-76.1 4.41),VALLE DEL CAUCA
+Restaurante 97,Italiana,1.1,39,499,4.41,-76.47,POINT (-76.47 4.41),VALLE DEL CAUCA
+Restaurante 98,Mexicana,1.3,14,234,3.49,-75.01,POINT (-75.01 3.49),TOLIMA
+Restaurante 99,China,2.6,27,344,3.86,-75.53,POINT (-75.53 3.86),TOLIMA
+Restaurante 100,Italiana,1.6,23,184,3.83,-75.74,POINT (-75.74 3.83),TOLIMA
+Restaurante 101,Francesa,2.5,22,159,6.37,-74.13,POINT (-74.13 6.37),SANTANDER
+Restaurante 102,Colombiana,3.5,41,118,3.47,-75.38,POINT (-75.38 3.47),TOLIMA
+Restaurante 103,Mexicana,3.2,16,185,3.9,-74.7,POINT (-74.7 3.9),TOLIMA
+Restaurante 104,Japonesa,1.9,17,145,6.32,-76.07,POINT (-76.07 6.32),ANTIOQUIA
+Restaurante 105,China,2.4,16,168,5.28,-76.47,POINT (-76.47 5.28),CHOCO
+Restaurante 106,Italiana,3.5,25,423,4.75,-75.5,POINT (-75.5 4.75),RISARALDA
+Restaurante 107,Peruana,4.4,40,323,3.64,-74.9,POINT (-74.9 3.64),TOLIMA
+Restaurante 108,Peruana,4.0,36,407,5.41,-75.28,POINT (-75.28 5.41),CALDAS
+Restaurante 109,Peruana,3.2,42,415,3.81,-74.36,POINT (-74.36 3.81),BOGOTA D.C.
+Restaurante 110,Italiana,2.4,38,387,5.41,-75.46,POINT (-75.46 5.41),CALDAS
+Restaurante 111,Francesa,2.5,17,226,6.34,-75.75,POINT (-75.75 6.34),ANTIOQUIA
+Restaurante 112,Mexicana,4.5,42,410,5.0,-74.3,POINT (-74.3 5),CUNDINAMARCA
+Restaurante 113,Japonesa,1.2,28,286,4.04,-75.52,POINT (-75.52 4.04),TOLIMA
+Restaurante 114,Peruana,5.0,30,321,5.28,-75.85,POINT (-75.85 5.28),RISARALDA
+Restaurante 115,Italiana,3.7,30,326,4.94,-76.27,POINT (-76.27 4.94),CHOCO
+Restaurante 116,Peruana,3.7,34,187,5.0,-74.6,POINT (-74.6 5),CUNDINAMARCA
+Restaurante 117,Francesa,1.2,32,411,4.83,-74.52,POINT (-74.52 4.83),CUNDINAMARCA
+Restaurante 118,China,3.4,20,181,5.42,-76.42,POINT (-76.42 5.42),CHOCO
+Restaurante 119,Peruana,2.9,42,93,5.12,-75.64,POINT (-75.64 5.12),CALDAS
+Restaurante 120,Francesa,1.4,29,172,6.36,-74.7,POINT (-74.7 6.36),ANTIOQUIA
+Restaurante 121,Mexicana,2.1,34,185,5.88,-74.23,POINT (-74.23 5.88),SANTANDER
+Restaurante 122,Peruana,4.6,35,416,4.19,-75.59,POINT (-75.59 4.19),TOLIMA
+Restaurante 123,Francesa,3.2,49,422,5.58,-74.41,POINT (-74.41 5.58),CUNDINAMARCA
+Restaurante 124,Italiana,2.7,21,175,4.04,-75.56,POINT (-75.56 4.04),TOLIMA
+Restaurante 125,Italiana,1.3,41,488,5.75,-76.07,POINT (-76.07 5.75),ANTIOQUIA
+Restaurante 126,Colombiana,3.9,42,324,3.84,-76.49,POINT (-76.49 3.84),VALLE DEL CAUCA
+Restaurante 127,Francesa,3.8,19,113,4.82,-75.71,POINT (-75.71 4.82),RISARALDA
+Restaurante 128,China,3.5,13,345,5.77,-75.59,POINT (-75.59 5.77),ANTIOQUIA
+Restaurante 129,Peruana,3.0,24,281,4.24,-74.23,POINT (-74.23 4.24),CUNDINAMARCA
+Restaurante 130,Japonesa,2.7,15,100,5.91,-76.01,POINT (-76.01 5.91),ANTIOQUIA
+Restaurante 131,Japonesa,3.4,36,186,5.33,-75.58,POINT (-75.58 5.33),CALDAS
+Restaurante 132,Mexicana,1.9,14,207,4.59,-76.44,POINT (-76.44 4.59),CHOCO
+Restaurante 133,Colombiana,4.8,14,105,4.67,-74.67,POINT (-74.67 4.67),CUNDINAMARCA
+Restaurante 134,Francesa,3.4,27,130,6.18,-74.3,POINT (-74.3 6.18),SANTANDER
+Restaurante 135,China,2.2,37,281,4.05,-75.93,POINT (-75.93 4.05),VALLE DEL CAUCA
+Restaurante 136,Colombiana,2.8,44,477,5.48,-75.47,POINT (-75.47 5.48),CALDAS
+Restaurante 137,Italiana,4.2,31,492,5.52,-76.21,POINT (-76.21 5.52),CHOCO
+Restaurante 138,Mexicana,1.6,43,448,6.17,-75.4,POINT (-75.4 6.17),ANTIOQUIA
+Restaurante 139,Peruana,2.2,13,375,5.54,-76.18,POINT (-76.18 5.54),CHOCO
+Restaurante 140,Peruana,3.7,27,177,5.15,-75.24,POINT (-75.24 5.15),CALDAS
+Restaurante 141,Peruana,2.3,35,175,6.11,-74.74,POINT (-74.74 6.11),ANTIOQUIA
+Restaurante 142,Francesa,4.2,31,366,5.89,-75.17,POINT (-75.17 5.89),ANTIOQUIA
+Restaurante 143,Japonesa,1.5,42,129,5.55,-75.91,POINT (-75.91 5.55),ANTIOQUIA
+Restaurante 144,China,4.1,23,426,3.5,-75.65,POINT (-75.65 3.5),TOLIMA
+Restaurante 145,Peruana,1.3,40,406,4.52,-74.97,POINT (-74.97 4.52),TOLIMA
+Restaurante 146,Peruana,1.1,19,456,5.3,-75.08,POINT (-75.08 5.3),CALDAS
+Restaurante 147,Italiana,4.6,33,382,4.97,-76.17,POINT (-76.17 4.97),CHOCO
+Restaurante 148,Colombiana,3.3,30,224,4.36,-74.47,POINT (-74.47 4.36),CUNDINAMARCA
+Restaurante 149,Peruana,2.4,17,194,3.83,-75.36,POINT (-75.36 3.83),TOLIMA
+Restaurante 150,Mexicana,1.9,41,490,5.06,-76.11,POINT (-76.11 5.06),CHOCO
+Restaurante 151,Colombiana,3.5,40,175,4.26,-76.21,POINT (-76.21 4.26),VALLE DEL CAUCA
+Restaurante 152,Japonesa,3.0,43,231,4.1,-74.18,POINT (-74.18 4.1),BOGOTA D.C.
+Restaurante 153,Colombiana,5.0,32,268,4.6,-75.82,POINT (-75.82 4.6),QUINDIO
+Restaurante 154,China,4.9,34,485,5.76,-74.32,POINT (-74.32 5.76),CUNDINAMARCA
+Restaurante 155,Italiana,3.5,16,327,4.86,-75.51,POINT (-75.51 4.86),RISARALDA
+Restaurante 156,Francesa,2.8,28,132,4.05,-75.57,POINT (-75.57 4.05),TOLIMA
+Restaurante 157,China,3.0,16,472,3.75,-74.82,POINT (-74.82 3.75),TOLIMA
+Restaurante 158,Japonesa,3.7,17,190,4.9,-76.48,POINT (-76.48 4.9),CHOCO
+Restaurante 159,Mexicana,1.4,23,383,5.78,-75.69,POINT (-75.69 5.78),ANTIOQUIA
+Restaurante 160,Japonesa,2.3,10,144,5.36,-75.77,POINT (-75.77 5.36),RISARALDA
+Restaurante 161,Japonesa,1.3,22,414,4.1,-74.42,POINT (-74.42 4.1),CUNDINAMARCA
+Restaurante 162,Colombiana,1.3,12,243,4.71,-75.23,POINT (-75.23 4.71),TOLIMA
+Restaurante 163,Mexicana,1.8,37,159,5.97,-75.63,POINT (-75.63 5.97),ANTIOQUIA
+Restaurante 164,China,2.9,47,101,3.93,-75.86,POINT (-75.86 3.93),VALLE DEL CAUCA
+Restaurante 165,Japonesa,4.1,24,152,5.0,-75.08,POINT (-75.08 5),TOLIMA
+Restaurante 166,China,2.9,45,150,4.47,-76.14,POINT (-76.14 4.47),VALLE DEL CAUCA
+Restaurante 167,Peruana,2.3,12,191,3.77,-75.91,POINT (-75.91 3.77),TOLIMA
+Restaurante 168,Peruana,1.3,13,250,3.55,-75.8,POINT (-75.8 3.55),TOLIMA
+Restaurante 169,Peruana,3.2,14,368,5.07,-75.04,POINT (-75.04 5.07),TOLIMA
+Restaurante 170,Francesa,2.1,35,248,3.46,-75.6,POINT (-75.6 3.46),TOLIMA
+Restaurante 171,Colombiana,3.5,34,333,3.71,-75.29,POINT (-75.29 3.71),TOLIMA
+Restaurante 172,China,4.9,19,266,4.44,-74.94,POINT (-74.94 4.44),TOLIMA
+Restaurante 173,Peruana,1.4,17,95,3.53,-74.2,POINT (-74.2 3.53),META
+Restaurante 174,Peruana,1.8,21,77,4.6,-74.66,POINT (-74.66 4.6),CUNDINAMARCA
+Restaurante 175,Mexicana,2.9,12,51,3.79,-75.53,POINT (-75.53 3.79),TOLIMA
+Restaurante 176,Japonesa,4.9,36,432,4.45,-74.7,POINT (-74.7 4.45),CUNDINAMARCA
+Restaurante 177,Peruana,4.1,32,66,5.77,-74.22,POINT (-74.22 5.77),BOYACA
+Restaurante 178,Francesa,4.6,49,364,5.28,-75.3,POINT (-75.3 5.28),CALDAS
+Restaurante 179,Mexicana,2.3,42,485,4.74,-75.51,POINT (-75.51 4.74),RISARALDA
+Restaurante 180,Colombiana,5.0,23,437,3.68,-76.31,POINT (-76.31 3.68),VALLE DEL CAUCA
+Restaurante 181,Francesa,1.4,32,126,5.26,-74.36,POINT (-74.36 5.26),CUNDINAMARCA
+Restaurante 182,Francesa,1.2,40,436,3.89,-75.91,POINT (-75.91 3.89),VALLE DEL CAUCA
+Restaurante 183,Francesa,4.4,22,420,3.63,-76.35,POINT (-76.35 3.63),VALLE DEL CAUCA
+Restaurante 184,Japonesa,4.7,21,214,5.39,-75.21,POINT (-75.21 5.39),CALDAS
+Restaurante 185,Peruana,1.4,44,146,6.14,-74.47,POINT (-74.47 6.14),BOYACA
+Restaurante 186,Italiana,1.5,27,154,4.78,-75.52,POINT (-75.52 4.78),RISARALDA
+Restaurante 187,Francesa,1.1,30,73,3.52,-74.62,POINT (-74.62 3.52),HUILA
+Restaurante 188,Mexicana,1.4,10,249,6.04,-74.49,POINT (-74.49 6.04),BOYACA
+Restaurante 189,Mexicana,1.8,47,84,3.6,-75.41,POINT (-75.41 3.6),TOLIMA
+Restaurante 190,Colombiana,4.9,18,51,6.0,-75.08,POINT (-75.08 6),ANTIOQUIA
+Restaurante 191,China,3.7,32,338,4.58,-75.22,POINT (-75.22 4.58),TOLIMA
+Restaurante 192,China,4.1,-5,381,4.5,-74.25,POINT (-74.25 4.5),CUNDINAMARCA
+Restaurante 193,Italiana,4.1,20,391,5.03,-74.76,POINT (-74.76 5.03),TOLIMA
+Restaurante 194,Japonesa,3.1,16,187,6.27,-74.28,POINT (-74.28 6.27),SANTANDER
+Restaurante 195,Peruana,4.2,40,386,6.1,-75.97,POINT (-75.97 6.1),ANTIOQUIA
+Restaurante 196,Japonesa,3.4,33,111,4.81,-75.76,POINT (-75.76 4.81),RISARALDA
+Restaurante 197,Peruana,2.3,35,348,5.49,-76.33,POINT (-76.33 5.49),CHOCO
+Restaurante 198,Francesa,3.2,39,246,5.14,-75.3,POINT (-75.3 5.14),CALDAS
+Restaurante 199,Peruana,3.1,43,426,5.48,-74.4,POINT (-74.4 5.48),CUNDINAMARCA
+Restaurante 200,Italiana,4.3,47,108,5.89,-75.72,POINT (-75.72 5.89),ANTIOQUIA
+Restaurante 201,Colombiana,4.9,14,314,3.5,-76.19,POINT (-76.19 3.5),VALLE DEL CAUCA
+Restaurante 202,Colombiana,2.6,14,382,4.38,-76.34,POINT (-76.34 4.38),VALLE DEL CAUCA
+Restaurante 203,China,4.1,28,237,6.28,-75.43,POINT (-75.43 6.28),ANTIOQUIA
+Restaurante 204,Colombiana,1.4,47,112,6.25,-76.11,POINT (-76.11 6.25),ANTIOQUIA
+Restaurante 205,Francesa,4.1,37,357,3.43,-75.67,POINT (-75.67 3.43),TOLIMA
+Restaurante 206,Mexicana,2.5,35,328,4.0,-74.53,POINT (-74.53 4),TOLIMA
+Restaurante 207,Colombiana,1.2,32,79,6.38,-75.58,POINT (-75.58 6.38),ANTIOQUIA
+Restaurante 208,Italiana,2.5,39,220,4.88,-75.04,POINT (-75.04 4.88),TOLIMA
+Restaurante 209,Francesa,3.4,12,70,5.12,-75.29,POINT (-75.29 5.12),TOLIMA
+Restaurante 210,Colombiana,1.5,37,348,3.9,-74.78,POINT (-74.78 3.9),TOLIMA
+Restaurante 211,Japonesa,4.7,42,250,6.08,-76.13,POINT (-76.13 6.08),ANTIOQUIA
+Restaurante 212,Peruana,1.3,12,184,4.09,-74.29,POINT (-74.29 4.09),BOGOTA D.C.
+Restaurante 213,Colombiana,4.7,14,321,3.97,-74.96,POINT (-74.96 3.97),TOLIMA
+Restaurante 215,Francesa,2.3,10,491,6.16,-76.2,POINT (-76.2 6.16),ANTIOQUIA
+Restaurante 216,Colombiana,2.6,47,136,5.51,-76.14,POINT (-76.14 5.51),CHOCO
+Restaurante 217,Japonesa,4.0,18,80,5.71,-74.62,POINT (-74.62 5.71),CUNDINAMARCA
+Restaurante 218,Mexicana,3.4,14,170,4.53,-75.09,POINT (-75.09 4.53),TOLIMA
+Restaurante 219,China,3.7,43,118,6.13,-75.59,POINT (-75.59 6.13),ANTIOQUIA
+Restaurante 220,Francesa,2.6,46,183,5.77,-75.7,POINT (-75.7 5.77),ANTIOQUIA
+Restaurante 221,Japonesa,3.0,42,420,5.65,-74.45,POINT (-74.45 5.65),CUNDINAMARCA
+Restaurante 222,Italiana,5.0,34,498,6.31,-74.4,POINT (-74.4 6.31),SANTANDER
+Restaurante 223,Colombiana,1.9,38,364,4.5,-75.1,POINT (-75.1 4.5),TOLIMA
+Restaurante 224,Japonesa,2.7,999,461,5.23,-75.24,POINT (-75.24 5.23),CALDAS
+Restaurante 225,Peruana,2.2,18,195,6.13,-74.54,POINT (-74.54 6.13),BOYACA
+Restaurante 226,Japonesa,4.1,12,382,5.77,-74.7,POINT (-74.7 5.77),CALDAS
+Restaurante 227,Japonesa,4.1,24,443,5.09,-75.54,POINT (-75.54 5.09),CALDAS
+Restaurante 228,Peruana,2.2,13,312,3.63,-76.3,POINT (-76.3 3.63),VALLE DEL CAUCA
+Restaurante 229,China,1.3,47,342,5.36,-74.66,POINT (-74.66 5.36),CUNDINAMARCA
+Restaurante 230,Peruana,1.0,29,478,4.98,-76.1,POINT (-76.1 4.98),CHOCO
+Restaurante 231,Peruana,2.7,32,135,3.95,-76.46,POINT (-76.46 3.95),VALLE DEL CAUCA
+Restaurante 232,Italiana,2.6,46,65,6.05,-74.48,POINT (-74.48 6.05),BOYACA
+Restaurante 233,Peruana,5.0,17,265,4.43,-75.11,POINT (-75.11 4.43),TOLIMA
+Restaurante 234,Italiana,2.9,46,165,4.56,-74.36,POINT (-74.36 4.56),CUNDINAMARCA
+Restaurante 235,Mexicana,2.0,42,167,5.42,-75.34,POINT (-75.34 5.42),CALDAS
+Restaurante 236,Peruana,4.6,42,319,4.87,-74.28,POINT (-74.28 4.87),CUNDINAMARCA
+Restaurante 237,China,3.0,16,444,3.67,-75.65,POINT (-75.65 3.67),TOLIMA
+Restaurante 238,Peruana,3.4,31,392,4.56,-74.76,POINT (-74.76 4.56),CUNDINAMARCA
+Restaurante 239,Japonesa,1.4,14,211,3.68,-75.78,POINT (-75.78 3.68),TOLIMA
+Restaurante 240,Francesa,2.5,24,237,3.97,-76.5,POINT (-76.5 3.97),VALLE DEL CAUCA
+Restaurante 241,China,4.8,30,153,3.42,-75.59,POINT (-75.59 3.42),TOLIMA
+Restaurante 242,Peruana,3.4,34,190,3.94,-74.73,POINT (-74.73 3.94),TOLIMA
+Restaurante 243,China,2.4,26,216,4.39,-76.14,POINT (-76.14 4.39),VALLE DEL CAUCA
+Restaurante 244,Italiana,3.5,16,349,5.01,-75.29,POINT (-75.29 5.01),TOLIMA
+Restaurante 245,Mexicana,4.6,28,77,6.16,-75.99,POINT (-75.99 6.16),ANTIOQUIA
+Restaurante 246,Mexicana,2.1,16,473,5.02,-76.32,POINT (-76.32 5.02),CHOCO
+Restaurante 247,China,3.0,49,321,5.52,-75.02,POINT (-75.02 5.52),CALDAS
+Restaurante 248,China,4.8,33,99,4.47,-74.22,POINT (-74.22 4.47),CUNDINAMARCA
+Restaurante 249,Peruana,1.7,20,420,5.65,-75.75,POINT (-75.75 5.65),ANTIOQUIA
+Restaurante 250,Colombiana,3.9,10,205,5.26,-75.11,POINT (-75.11 5.26),CALDAS
+Restaurante 251,Japonesa,3.5,41,373,4.78,-74.21,POINT (-74.21 4.78),CUNDINAMARCA
+Restaurante 252,Italiana,3.7,49,397,3.98,-74.94,POINT (-74.94 3.98),TOLIMA
+Restaurante 253,Japonesa,2.4,11,170,4.31,-74.88,POINT (-74.88 4.31),CUNDINAMARCA
+Restaurante 254,Francesa,2.3,24,493,5.26,-76.07,POINT (-76.07 5.26),RISARALDA
+Restaurante 255,Francesa,3.7,30,189,4.68,-75.32,POINT (-75.32 4.68),TOLIMA
+Restaurante 256,Mexicana,1.9,33,65,6.07,-75.62,POINT (-75.62 6.07),ANTIOQUIA
+Restaurante 257,Italiana,2.7,26,358,4.1,-75.37,POINT (-75.37 4.1),TOLIMA
+Restaurante 258,Japonesa,1.8,18,487,3.62,-74.58,POINT (-74.58 3.62),HUILA
+Restaurante 259,Mexicana,1.0,44,98,5.17,-75.39,POINT (-75.39 5.17),CALDAS
+Restaurante 260,Francesa,4.9,29,213,6.06,-76.35,POINT (-76.35 6.06),CHOCO
+Restaurante 261,China,2.7,28,111,4.49,-74.33,POINT (-74.33 4.49),CUNDINAMARCA
+Restaurante 262,Italiana,4.9,27,389,5.34,-75.19,POINT (-75.19 5.34),CALDAS
+Restaurante 263,Italiana,1.6,29,203,4.09,-74.28,POINT (-74.28 4.09),BOGOTA D.C.
+Restaurante 264,Japonesa,3.3,39,361,5.08,-75.13,POINT (-75.13 5.08),TOLIMA
+Restaurante 265,Peruana,1.8,49,425,5.76,-76.33,POINT (-76.33 5.76),CHOCO
+Restaurante 266,Colombiana,4.2,10,395,6.0,-75.17,POINT (-75.17 6),ANTIOQUIA
+Restaurante 267,Japonesa,4.1,33,199,3.72,-75.12,POINT (-75.12 3.72),TOLIMA
+Restaurante 268,China,1.5,33,425,4.47,-75.99,POINT (-75.99 4.47),VALLE DEL CAUCA
+Restaurante 269,Peruana,4.6,28,122,5.32,-75.37,POINT (-75.37 5.32),CALDAS
+Restaurante 270,Peruana,1.8,39,118,3.5,-75.4,POINT (-75.4 3.5),TOLIMA
+Restaurante 271,Peruana,3.5,35,226,5.47,-75.01,POINT (-75.01 5.47),CALDAS
+Restaurante 272,China,4.9,47,403,4.98,-75.88,POINT (-75.88 4.98),CALDAS
+Restaurante 273,Mexicana,4.5,38,51,4.27,-75.1,POINT (-75.1 4.27),TOLIMA
+Restaurante 274,Italiana,4.8,22,358,5.84,-75.92,POINT (-75.92 5.84),ANTIOQUIA
+Restaurante 275,Mexicana,2.4,13,168,4.27,-75.43,POINT (-75.43 4.27),TOLIMA
+Restaurante 276,China,1.4,26,56,6.37,-76.21,POINT (-76.21 6.37),ANTIOQUIA
+Restaurante 277,Colombiana,1.8,42,304,5.85,-76.41,POINT (-76.41 5.85),CHOCO
+Restaurante 278,Italiana,3.0,14,453,5.52,-75.73,POINT (-75.73 5.52),CALDAS
+Restaurante 279,China,4.2,37,463,3.58,-75.84,POINT (-75.84 3.58),TOLIMA
+Restaurante 280,Colombiana,1.6,33,124,6.11,-75.52,POINT (-75.52 6.11),ANTIOQUIA
+Restaurante 281,Japonesa,3.6,26,400,5.77,-74.19,POINT (-74.19 5.77),BOYACA
+Restaurante 282,Francesa,2.3,48,244,4.09,-75.25,POINT (-75.25 4.09),TOLIMA
+Restaurante 283,Peruana,2.4,49,236,4.58,-75.17,POINT (-75.17 4.58),TOLIMA
+Restaurante 284,China,3.6,20,499,4.21,-74.24,POINT (-74.24 4.21),CUNDINAMARCA
+Restaurante 285,Francesa,2.9,21,52,6.35,-74.29,POINT (-74.29 6.35),SANTANDER
+Restaurante 286,Mexicana,4.2,22,233,5.96,-74.38,POINT (-74.38 5.96),BOYACA
+Restaurante 287,Francesa,1.6,17,384,6.19,-76.26,POINT (-76.26 6.19),CHOCO
+Restaurante 288,China,4.2,10,322,5.77,-74.98,POINT (-74.98 5.77),ANTIOQUIA
+Restaurante 289,Francesa,1.3,18,417,4.77,-74.56,POINT (-74.56 4.77),CUNDINAMARCA
+Restaurante 290,Peruana,1.8,37,101,4.02,-74.49,POINT (-74.49 4.02),CUNDINAMARCA
+Restaurante 291,Italiana,3.6,11,312,4.02,-75.11,POINT (-75.11 4.02),TOLIMA
+Restaurante 292,China,4.4,23,417,3.86,-76.46,POINT (-76.46 3.86),VALLE DEL CAUCA
+Restaurante 293,Colombiana,2.0,22,182,5.04,-74.16,POINT (-74.16 5.04),CUNDINAMARCA
+Restaurante 294,Francesa,2.3,11,274,6.16,-75.37,POINT (-75.37 6.16),ANTIOQUIA
+Restaurante 295,Italiana,3.1,13,359,6.38,-75.56,POINT (-75.56 6.38),ANTIOQUIA
+Restaurante 296,Peruana,1.8,21,110,4.26,-75.55,POINT (-75.55 4.26),TOLIMA
+Restaurante 297,Mexicana,4.2,19,414,5.49,-75.48,POINT (-75.48 5.49),CALDAS
+Restaurante 298,Mexicana,4.1,12,65,5.19,-75.92,POINT (-75.92 5.19),RISARALDA
+Restaurante 299,Peruana,1.6,13,278,4.87,-75.71,POINT (-75.71 4.87),RISARALDA
+Restaurante 300,Francesa,2.9,15,244,5.4,-74.14,POINT (-74.14 5.4),CUNDINAMARCA
+Restaurante 301,Mexicana,4.1,32,300,4.51,-75.62,POINT (-75.62 4.51),QUINDIO
+Restaurante 302,Colombiana,2.3,14,492,6.23,-75.24,POINT (-75.24 6.23),ANTIOQUIA
+Restaurante 303,China,3.5,12,352,5.52,-74.46,POINT (-74.46 5.52),CUNDINAMARCA
+Restaurante 304,Italiana,1.2,19,97,5.66,-75.23,POINT (-75.23 5.66),ANTIOQUIA
+Restaurante 305,Japonesa,3.4,28,284,4.13,-75.72,POINT (-75.72 4.13),QUINDIO
+Restaurante 306,Francesa,1.6,23,170,3.91,-75.24,POINT (-75.24 3.91),TOLIMA
+Restaurante 307,Mexicana,4.3,30,369,4.58,-76.23,POINT (-76.23 4.58),VALLE DEL CAUCA
+Restaurante 308,China,2.4,37,99,5.7,-76.19,POINT (-76.19 5.7),CHOCO
+Restaurante 309,Japonesa,2.1,30,90,6.22,-74.83,POINT (-74.83 6.22),ANTIOQUIA
+Restaurante 310,Colombiana,4.4,45,71,4.68,-74.3,POINT (-74.3 4.68),CUNDINAMARCA
+Restaurante 311,Mexicana,1.2,33,420,5.72,-74.76,POINT (-74.76 5.72),ANTIOQUIA
+Restaurante 312,Mexicana,2.6,47,231,4.81,-76.32,POINT (-76.32 4.81),CHOCO
+Restaurante 313,Italiana,2.5,26,54,4.29,-75.53,POINT (-75.53 4.29),TOLIMA
+Restaurante 314,Colombiana,2.1,31,194,5.62,-76.49,POINT (-76.49 5.62),CHOCO
+Restaurante 315,Colombiana,4.6,28,406,5.79,-75.27,POINT (-75.27 5.79),ANTIOQUIA
+Restaurante 316,Francesa,4.0,19,127,4.01,-76.04,POINT (-76.04 4.01),VALLE DEL CAUCA
+Restaurante 317,Japonesa,1.3,20,280,4.32,-74.42,POINT (-74.42 4.32),CUNDINAMARCA
+Restaurante 318,Italiana,3.9,47,346,4.88,-76.25,POINT (-76.25 4.88),CHOCO
+Restaurante 319,Francesa,3.1,11,397,3.96,-76.5,POINT (-76.5 3.96),VALLE DEL CAUCA
+Restaurante 320,Italiana,4.6,42,258,6.19,-75.42,POINT (-75.42 6.19),ANTIOQUIA
+Restaurante 321,Colombiana,2.3,40,212,5.17,-76.13,POINT (-76.13 5.17),RISARALDA
+Restaurante 322,Italiana,3.3,44,217,3.76,-74.73,POINT (-74.73 3.76),TOLIMA
+Restaurante 323,Italiana,3.0,46,327,3.95,-74.29,POINT (-74.29 3.95),BOGOTA D.C.
+Restaurante 324,Italiana,3.0,45,286,6.26,-76.4,POINT (-76.4 6.26),ANTIOQUIA
+Restaurante 325,China,2.8,32,225,5.61,-75.55,POINT (-75.55 5.61),CALDAS
+Restaurante 326,China,1.8,45,102,5.6,-74.11,POINT (-74.11 5.6),BOYACA
+Restaurante 327,Japonesa,4.0,49,398,3.62,-74.74,POINT (-74.74 3.62),TOLIMA
+Restaurante 328,Japonesa,2.8,48,59,6.09,-74.21,POINT (-74.21 6.09),SANTANDER
+Restaurante 329,Peruana,4.8,35,195,4.73,-76.11,POINT (-76.11 4.73),VALLE DEL CAUCA
+Restaurante 330,Colombiana,2.0,34,276,5.38,-75.97,POINT (-75.97 5.38),RISARALDA
+Restaurante 331,Italiana,3.7,26,285,6.28,-76.13,POINT (-76.13 6.28),ANTIOQUIA
+Restaurante 332,Colombiana,4.8,24,291,3.7,-75.77,POINT (-75.77 3.7),TOLIMA
+Restaurante 333,China,3.7,46,354,4.85,-74.76,POINT (-74.76 4.85),CUNDINAMARCA
+Restaurante 334,Italiana,4.5,13,120,3.55,-76.1,POINT (-76.1 3.55),VALLE DEL CAUCA
+Restaurante 335,Francesa,4.3,31,207,4.9,-75.24,POINT (-75.24 4.9),TOLIMA
+Restaurante 336,China,2.4,26,68,4.16,-75.85,POINT (-75.85 4.16),VALLE DEL CAUCA
+Restaurante 337,China,3.4,31,104,6.13,-74.51,POINT (-74.51 6.13),BOYACA
+Restaurante 338,China,1.6,26,493,4.6,-76.48,POINT (-76.48 4.6),CHOCO
+Restaurante 339,Peruana,3.1,23,264,5.3,-75.96,POINT (-75.96 5.3),RISARALDA
+Restaurante 340,Italiana,1.9,23,258,5.98,-75.05,POINT (-75.05 5.98),ANTIOQUIA
+Restaurante 341,Japonesa,4.0,26,70,6.35,-76.27,POINT (-76.27 6.35),ANTIOQUIA
+Restaurante 342,Mexicana,3.1,17,331,4.91,-75.38,POINT (-75.38 4.91),CALDAS
+Restaurante 343,Francesa,2.6,43,298,4.77,-75.45,POINT (-75.45 4.77),RISARALDA
+Restaurante 344,Francesa,2.1,35,77,3.63,-74.45,POINT (-74.45 3.63),META
+Restaurante 345,Colombiana,5.0,39,472,3.44,-75.0,POINT (-75 3.44),TOLIMA
+Restaurante 346,Italiana,1.3,31,466,5.23,-74.96,POINT (-74.96 5.23),TOLIMA
+Restaurante 347,Japonesa,1.2,25,345,3.6,-74.22,POINT (-74.22 3.6),META
+Restaurante 348,China,1.9,39,260,4.54,-74.14,POINT (-74.14 4.54),BOGOTA D.C.
+Restaurante 349,Mexicana,4.9,25,334,3.41,-74.93,POINT (-74.93 3.41),TOLIMA
+Restaurante 350,Italiana,4.9,47,69,5.25,-75.25,POINT (-75.25 5.25),CALDAS
+Restaurante 351,Italiana,3.6,33,69,4.68,-75.04,POINT (-75.04 4.68),TOLIMA
+Restaurante 352,Peruana,4.5,45,379,3.78,-75.58,POINT (-75.58 3.78),TOLIMA
+Restaurante 353,Japonesa,1.9,44,445,4.29,-74.13,POINT (-74.13 4.29),CUNDINAMARCA
+Restaurante 354,Mexicana,4.9,15,169,5.11,-74.81,POINT (-74.81 5.11),TOLIMA
+Restaurante 355,China,1.6,13,146,5.37,-75.8,POINT (-75.8 5.37),CALDAS
+Restaurante 356,Italiana,1.4,27,169,4.79,-76.36,POINT (-76.36 4.79),CHOCO
+Restaurante 357,Francesa,1.4,15,74,5.81,-76.39,POINT (-76.39 5.81),CHOCO
+Restaurante 358,Francesa,3.3,35,202,3.74,-76.01,POINT (-76.01 3.74),VALLE DEL CAUCA
+Restaurante 359,Mexicana,4.1,46,294,3.65,-75.94,POINT (-75.94 3.65),TOLIMA
+Restaurante 360,China,2.5,36,309,3.53,-75.5,POINT (-75.5 3.53),TOLIMA
+Restaurante 361,Mexicana,4.9,20,53,5.01,-75.98,POINT (-75.98 5.01),RISARALDA
+Restaurante 362,Italiana,2.7,47,442,5.52,-74.99,POINT (-74.99 5.52),CALDAS
+Restaurante 363,Peruana,1.6,25,192,3.79,-75.99,POINT (-75.99 3.79),VALLE DEL CAUCA
+Restaurante 364,Peruana,2.9,28,331,5.32,-76.05,POINT (-76.05 5.32),RISARALDA
+Restaurante 365,Francesa,3.7,24,384,4.83,-75.37,POINT (-75.37 4.83),CALDAS
+Restaurante 366,Peruana,4.3,35,395,6.36,-74.37,POINT (-74.37 6.36),SANTANDER
+Restaurante 367,Colombiana,2.8,40,269,5.55,-75.38,POINT (-75.38 5.55),CALDAS
+Restaurante 368,Mexicana,3.4,28,376,5.37,-75.51,POINT (-75.51 5.37),CALDAS
+Restaurante 369,Peruana,2.1,33,209,5.11,-75.11,POINT (-75.11 5.11),TOLIMA
+Restaurante 370,Colombiana,3.6,18,125,6.39,-75.88,POINT (-75.88 6.39),ANTIOQUIA
+Restaurante 371,Colombiana,4.9,32,148,6.34,-75.65,POINT (-75.65 6.34),ANTIOQUIA
+Restaurante 372,Japonesa,1.2,13,229,5.01,-75.99,POINT (-75.99 5.01),RISARALDA
+Restaurante 373,Francesa,4.5,19,176,4.77,-75.13,POINT (-75.13 4.77),TOLIMA
+Restaurante 374,Mexicana,3.2,18,81,4.79,-74.83,POINT (-74.83 4.79),TOLIMA
+Restaurante 375,Colombiana,2.0,28,314,4.69,-74.88,POINT (-74.88 4.69),TOLIMA
+Restaurante 376,Italiana,4.8,24,383,4.99,-75.89,POINT (-75.89 4.99),CALDAS
+Restaurante 377,Peruana,2.9,43,62,4.22,-74.63,POINT (-74.63 4.22),TOLIMA
+Restaurante 378,Japonesa,2.3,28,489,6.18,-75.89,POINT (-75.89 6.18),ANTIOQUIA
+Restaurante 379,China,1.7,30,429,4.87,-76.14,POINT (-76.14 4.87),CHOCO
+Restaurante 380,Peruana,2.0,43,477,5.93,-75.66,POINT (-75.66 5.93),ANTIOQUIA
+Restaurante 381,Peruana,4.3,26,401,4.83,-75.07,POINT (-75.07 4.83),TOLIMA
+Restaurante 382,Peruana,3.5,27,388,5.55,-76.16,POINT (-76.16 5.55),CHOCO
+Restaurante 383,Japonesa,4.7,26,463,4.41,-74.94,POINT (-74.94 4.41),TOLIMA
+Restaurante 384,China,1.9,11,449,5.27,-74.43,POINT (-74.43 5.27),CUNDINAMARCA
+Restaurante 385,Francesa,1.5,10,445,4.9,-75.8,POINT (-75.8 4.9),RISARALDA
+Restaurante 386,Mexicana,1.0,19,251,4.5,-75.42,POINT (-75.42 4.5),TOLIMA
+Restaurante 387,Fusión?,3.0,46,499,6.04,-75.95,POINT (-75.95 6.04),ANTIOQUIA
+Restaurante 388,China,5.0,14,67,3.74,-75.63,POINT (-75.63 3.74),TOLIMA
+Restaurante 389,Peruana,3.8,21,446,4.86,-76.45,POINT (-76.45 4.86),CHOCO
+Restaurante 390,Italiana,2.2,45,142,3.98,-74.21,POINT (-74.21 3.98),META
+Restaurante 391,China,4.5,40,329,5.98,-75.5,POINT (-75.5 5.98),ANTIOQUIA
+Restaurante 392,China,4.1,47,407,4.16,-74.61,POINT (-74.61 4.16),TOLIMA
+Restaurante 393,Mexicana,1.1,18,445,5.3,-76.16,POINT (-76.16 5.3),RISARALDA
+Restaurante 394,Colombiana,4.3,35,365,3.9,-74.55,POINT (-74.55 3.9),TOLIMA
+Restaurante 395,Italiana,2.2,24,109,4.61,-74.44,POINT (-74.44 4.61),CUNDINAMARCA
+Restaurante 396,Mexicana,1.6,25,263,6.1,-74.78,POINT (-74.78 6.1),ANTIOQUIA
+Restaurante 397,Japonesa,1.9,22,149,3.9,-74.33,POINT (-74.33 3.9),BOGOTA D.C.
+Restaurante 398,China,2.9,34,50,5.39,-76.1,POINT (-76.1 5.39),RISARALDA
+Restaurante 399,Colombiana,2.7,39,92,4.01,-75.36,POINT (-75.36 4.01),TOLIMA
+Restaurante 400,Italiana,2.2,16,360,4.65,-75.01,POINT (-75.01 4.65),TOLIMA
+Restaurante 401,Francesa,1.7,13,217,5.02,-75.07,POINT (-75.07 5.02),TOLIMA
+Restaurante 402,Italiana,4.0,49,241,5.13,-74.43,POINT (-74.43 5.13),CUNDINAMARCA
+Restaurante 403,Italiana,5.0,47,83,5.21,-75.98,POINT (-75.98 5.21),RISARALDA
+Restaurante 404,Peruana,4.1,39,83,5.32,-76.08,POINT (-76.08 5.32),RISARALDA
+Restaurante 405,China,2.2,19,225,4.22,-75.89,POINT (-75.89 4.22),VALLE DEL CAUCA
+Restaurante 406,China,2.0,39,466,4.6,-74.36,POINT (-74.36 4.6),CUNDINAMARCA
+Restaurante 407,Francesa,1.9,48,245,3.51,-74.24,POINT (-74.24 3.51),META
+Restaurante 408,Francesa,1.5,16,207,5.71,-75.13,POINT (-75.13 5.71),ANTIOQUIA
+Restaurante 409,Francesa,3.2,45,294,5.91,-75.3,POINT (-75.3 5.91),ANTIOQUIA
+Restaurante 410,Mexicana,3.4,44,415,4.0,-75.05,POINT (-75.05 4),TOLIMA
+Restaurante 411,Mexicana,3.8,33,389,4.0,-75.02,POINT (-75.02 4),TOLIMA
+Restaurante 412,China,3.7,48,395,3.53,-76.09,POINT (-76.09 3.53),VALLE DEL CAUCA
+Restaurante 413,China,2.2,45,384,6.31,-74.85,POINT (-74.85 6.31),ANTIOQUIA
+Restaurante 414,Francesa,2.3,29,120,5.82,-75.41,POINT (-75.41 5.82),ANTIOQUIA
+Restaurante 415,Mexicana,3.7,41,376,4.48,-75.26,POINT (-75.26 4.48),TOLIMA
+Restaurante 416,Colombiana,2.4,48,163,4.85,-76.43,POINT (-76.43 4.85),CHOCO
+Restaurante 417,Mexicana,1.9,35,334,4.28,-74.67,POINT (-74.67 4.28),CUNDINAMARCA
+Restaurante 418,China,2.5,35,456,5.19,-74.49,POINT (-74.49 5.19),CUNDINAMARCA
+Restaurante 419,Mexicana,2.1,45,467,5.55,-75.01,POINT (-75.01 5.55),CALDAS
+Restaurante 420,China,1.4,44,192,4.74,-74.7,POINT (-74.7 4.74),CUNDINAMARCA
+Restaurante 421,Francesa,4.3,44,146,6.02,-75.25,POINT (-75.25 6.02),ANTIOQUIA
+Restaurante 423,Francesa,1.9,42,450,3.83,-75.55,POINT (-75.55 3.83),TOLIMA
+Restaurante 424,Francesa,1.3,45,369,5.27,-74.6,POINT (-74.6 5.27),CUNDINAMARCA
+Restaurante 425,Colombiana,4.0,23,261,4.79,-75.38,POINT (-75.38 4.79),RISARALDA
+Restaurante 426,Peruana,1.8,42,366,6.21,-74.87,POINT (-74.87 6.21),ANTIOQUIA
+Restaurante 427,Colombiana,2.6,33,234,4.58,-75.01,POINT (-75.01 4.58),TOLIMA
+Restaurante 428,China,1.3,24,254,4.61,-74.81,POINT (-74.81 4.61),CUNDINAMARCA
+Restaurante 429,Italiana,1.9,40,413,5.35,-74.62,POINT (-74.62 5.35),CUNDINAMARCA
+Restaurante 430,Japonesa,4.2,26,265,4.98,-75.27,POINT (-75.27 4.98),TOLIMA
+Restaurante 431,Colombiana,4.2,21,295,4.52,-74.55,POINT (-74.55 4.52),CUNDINAMARCA
+Restaurante 432,China,1.8,31,288,6.37,-75.31,POINT (-75.31 6.37),ANTIOQUIA
+Restaurante 433,Peruana,2.3,32,342,4.31,-74.2,POINT (-74.2 4.31),BOGOTA D.C.
+Restaurante 434,Mexicana,1.5,35,440,4.23,-74.69,POINT (-74.69 4.23),CUNDINAMARCA
+Restaurante 435,Peruana,1.3,23,57,5.99,-76.09,POINT (-76.09 5.99),ANTIOQUIA
+Restaurante 436,Francesa,5.0,21,127,3.41,-74.51,POINT (-74.51 3.41),META
+Restaurante 437,Francesa,3.6,13,373,4.0,-75.18,POINT (-75.18 4),TOLIMA
+Restaurante 438,Francesa,3.2,22,326,5.17,-74.14,POINT (-74.14 5.17),CUNDINAMARCA
+Restaurante 439,China,4.1,27,494,3.89,-74.77,POINT (-74.77 3.89),TOLIMA
+Restaurante 440,Francesa,4.4,37,251,6.36,-76.3,POINT (-76.3 6.36),ANTIOQUIA
+Restaurante 441,Colombiana,4.2,47,263,4.79,-75.55,POINT (-75.55 4.79),RISARALDA
+Restaurante 442,Mexicana,1.1,28,143,5.19,-75.26,POINT (-75.26 5.19),CALDAS
+Restaurante 443,Francesa,1.7,47,124,3.88,-74.49,POINT (-74.49 3.88),CUNDINAMARCA
+Restaurante 444,China,3.6,12,206,4.27,-74.75,POINT (-74.75 4.27),CUNDINAMARCA
+Restaurante 445,Mexicana,2.5,28,202,5.24,-75.61,POINT (-75.61 5.24),CALDAS
+Restaurante 446,Francesa,4.9,29,491,5.05,-74.93,POINT (-74.93 5.05),TOLIMA
+Restaurante 447,Italiana,3.7,34,191,5.75,-75.12,POINT (-75.12 5.75),ANTIOQUIA
+Restaurante 448,Francesa,4.8,20,127,4.21,-76.2,POINT (-76.2 4.21),VALLE DEL CAUCA
+Restaurante 449,Japonesa,1.8,26,371,5.36,-75.94,POINT (-75.94 5.36),RISARALDA
+Restaurante 450,Peruana,4.5,44,231,4.27,-75.68,POINT (-75.68 4.27),QUINDIO
+Restaurante 451,Colombiana,2.3,23,244,5.16,-76.03,POINT (-76.03 5.16),RISARALDA
+Restaurante 452,Mexicana,5.0,48,207,5.22,-76.14,POINT (-76.14 5.22),RISARALDA
+Restaurante 453,Colombiana,1.6,28,195,3.77,-76.36,POINT (-76.36 3.77),VALLE DEL CAUCA
+Restaurante 454,Italiana,3.1,12,103,5.05,-74.4,POINT (-74.4 5.05),CUNDINAMARCA
+Restaurante 455,Italiana,4.2,43,405,3.44,-75.81,POINT (-75.81 3.44),TOLIMA
+Restaurante 456,Japonesa,2.7,31,326,4.9,-75.8,POINT (-75.8 4.9),RISARALDA
+Restaurante 457,Colombiana,2.9,47,358,5.49,-76.01,POINT (-76.01 5.49),RISARALDA
+Restaurante 458,Mexicana,4.9,36,132,3.62,-75.36,POINT (-75.36 3.62),TOLIMA
+Restaurante 459,Italiana,2.7,30,449,6.22,-75.27,POINT (-75.27 6.22),ANTIOQUIA
+Restaurante 460,Italiana,3.4,40,205,4.78,-76.0,POINT (-76 4.78),VALLE DEL CAUCA
+Restaurante 461,Francesa,1.2,36,53,6.22,-75.04,POINT (-75.04 6.22),ANTIOQUIA
+Restaurante 462,Japonesa,4.4,46,360,3.72,-74.76,POINT (-74.76 3.72),TOLIMA
+Restaurante 463,Peruana,3.6,11,320,6.25,-75.6,POINT (-75.6 6.25),ANTIOQUIA
+Restaurante 464,China,2.6,18,113,3.73,-75.09,POINT (-75.09 3.73),TOLIMA
+Restaurante 465,Peruana,1.1,28,498,4.78,-75.29,POINT (-75.29 4.78),TOLIMA
+Restaurante 466,Peruana,3.4,45,161,6.21,-76.03,POINT (-76.03 6.21),ANTIOQUIA
+Restaurante 467,Italiana,1.1,19,288,4.1,-74.75,POINT (-74.75 4.1),TOLIMA
+Restaurante 468,Mexicana,1.0,49,193,3.5,-74.58,POINT (-74.58 3.5),META
+Restaurante 469,Mexicana,3.5,48,423,5.78,-74.94,POINT (-74.94 5.78),ANTIOQUIA
+Restaurante 470,Francesa,1.8,16,69,5.19,-75.72,POINT (-75.72 5.19),CALDAS
+Restaurante 471,Mexicana,1.8,13,113,4.94,-74.28,POINT (-74.28 4.94),CUNDINAMARCA
+Restaurante 472,Francesa,3.6,24,338,3.5,-75.41,POINT (-75.41 3.5),TOLIMA
+Restaurante 473,Italiana,1.2,21,130,5.36,-75.86,POINT (-75.86 5.36),RISARALDA
+Restaurante 474,Italiana,2.3,15,246,3.91,-75.52,POINT (-75.52 3.91),TOLIMA
+Restaurante 475,Peruana,1.6,18,431,6.19,-74.84,POINT (-74.84 6.19),ANTIOQUIA
+Restaurante 476,Italiana,3.3,44,118,5.46,-74.47,POINT (-74.47 5.46),CUNDINAMARCA
+Restaurante 477,Italiana,3.6,17,235,5.52,-75.64,POINT (-75.64 5.52),CALDAS
+Restaurante 478,China,3.9,16,216,4.1,-75.94,POINT (-75.94 4.1),VALLE DEL CAUCA
+Restaurante 479,Japonesa,2.0,13,254,6.04,-75.0,POINT (-75 6.04),ANTIOQUIA
+Restaurante 480,Peruana,1.4,22,213,5.01,-74.29,POINT (-74.29 5.01),CUNDINAMARCA
+Restaurante 481,Peruana,1.3,28,143,5.97,-76.06,POINT (-76.06 5.97),ANTIOQUIA
+Restaurante 482,Japonesa,2.7,16,298,4.21,-74.57,POINT (-74.57 4.21),TOLIMA
+Restaurante 483,China,4.8,19,117,5.67,-75.36,POINT (-75.36 5.67),ANTIOQUIA
+Restaurante 484,Italiana,1.9,34,392,5.12,-74.58,POINT (-74.58 5.12),CUNDINAMARCA
+Restaurante 485,Mexicana,2.0,44,70,3.55,-75.29,POINT (-75.29 3.55),TOLIMA
+Restaurante 486,Francesa,1.4,34,368,4.62,-75.59,POINT (-75.59 4.62),QUINDIO
+Restaurante 487,Peruana,3.4,38,134,3.95,-74.83,POINT (-74.83 3.95),TOLIMA
+Restaurante 488,Japonesa,3.7,21,439,4.48,-74.34,POINT (-74.34 4.48),CUNDINAMARCA
+Restaurante 489,Colombiana,3.6,49,73,4.55,-75.73,POINT (-75.73 4.55),QUINDIO
+Restaurante 490,Francesa,4.4,21,160,4.82,-75.39,POINT (-75.39 4.82),CALDAS
+Restaurante 491,Colombiana,2.9,15,486,5.2,-75.95,POINT (-75.95 5.2),RISARALDA
+Restaurante 492,Colombiana,1.5,19,400,5.11,-76.06,POINT (-76.06 5.11),RISARALDA
+Restaurante 493,Peruana,2.2,11,132,3.52,-74.63,POINT (-74.63 3.52),HUILA
+Restaurante 494,Italiana,3.6,34,407,5.65,-76.02,POINT (-76.02 5.65),ANTIOQUIA
+Restaurante 495,Colombiana,3.5,16,127,6.25,-74.6,POINT (-74.6 6.25),ANTIOQUIA
+Restaurante 496,Italiana,3.1,49,483,4.45,-75.47,POINT (-75.47 4.45),TOLIMA
+Restaurante 497,China,3.7,32,429,3.94,-74.11,POINT (-74.11 3.94),META
+Restaurante 498,Mexicana,3.5,20,189,5.02,-76.03,POINT (-76.03 5.02),RISARALDA
+Restaurante 499,Colombiana,4.5,45,489,5.51,-76.28,POINT (-76.28 5.51),CHOCO
+Restaurante 500,Peruana,3.3,32,425,5.44,-76.32,POINT (-76.32 5.44),CHOCO
+Restaurante 501,Mexicana,4.1,16,320,5.24,-74.49,POINT (-74.49 5.24),CUNDINAMARCA
+Restaurante 502,Italiana,2.0,36,388,3.84,-75.45,POINT (-75.45 3.84),TOLIMA
+Restaurante 504,Francesa,4.6,26,218,4.68,-74.4,POINT (-74.4 4.68),CUNDINAMARCA
+Restaurante 505,Peruana,2.5,41,246,4.06,-74.4,POINT (-74.4 4.06),CUNDINAMARCA
+Restaurante 506,China,4.1,35,311,3.66,-74.56,POINT (-74.56 3.66),HUILA
+Restaurante 507,Japonesa,3.9,31,264,4.65,-75.9,POINT (-75.9 4.65),VALLE DEL CAUCA
+Restaurante 508,China,1.2,22,116,5.25,-75.61,POINT (-75.61 5.25),CALDAS
+Restaurante 509,Colombiana,3.3,21,278,5.4,-74.71,POINT (-74.71 5.4),CALDAS
+Restaurante 510,Peruana,1.5,16,210,6.29,-75.33,POINT (-75.33 6.29),ANTIOQUIA
+Restaurante 511,China,4.9,10,476,3.86,-76.13,POINT (-76.13 3.86),VALLE DEL CAUCA
+Restaurante 512,Japonesa,4.2,42,171,6.36,-75.92,POINT (-75.92 6.36),ANTIOQUIA
+Restaurante 513,Francesa,1.4,23,198,5.36,-74.17,POINT (-74.17 5.36),CUNDINAMARCA
+Restaurante 514,Mexicana,1.5,26,389,4.76,-76.14,POINT (-76.14 4.76),VALLE DEL CAUCA
+Restaurante 515,Francesa,3.4,13,242,6.06,-74.76,POINT (-74.76 6.06),ANTIOQUIA
+Restaurante 516,China,2.4,48,280,5.48,-75.35,POINT (-75.35 5.48),CALDAS
+Restaurante 517,Japonesa,1.1,10,160,4.45,-74.7,POINT (-74.7 4.45),CUNDINAMARCA
+Restaurante 518,Mexicana,3.2,33,194,6.05,-74.91,POINT (-74.91 6.05),ANTIOQUIA
+Restaurante 519,Peruana,2.6,43,270,5.4,-75.45,POINT (-75.45 5.4),CALDAS
+Restaurante 520,Japonesa,1.4,43,441,5.5,-75.65,POINT (-75.65 5.5),CALDAS
+Restaurante 521,Francesa,4.2,33,113,6.09,-74.69,POINT (-74.69 6.09),ANTIOQUIA
+Restaurante 522,Italiana,4.7,24,175,4.75,-75.72,POINT (-75.72 4.75),RISARALDA
+Restaurante 523,Italiana,4.0,26,267,5.37,-74.61,POINT (-74.61 5.37),CUNDINAMARCA
+Restaurante 524,Mexicana,4.3,22,333,5.63,-74.87,POINT (-74.87 5.63),CALDAS
+Restaurante 525,Mexicana,1.9,16,403,4.76,-75.11,POINT (-75.11 4.76),TOLIMA
+Restaurante 527,Italiana,1.8,44,285,5.71,-76.01,POINT (-76.01 5.71),ANTIOQUIA
+Restaurante 528,Francesa,4.1,32,62,3.54,-74.79,POINT (-74.79 3.54),TOLIMA
+Restaurante 529,Mexicana,4.8,48,471,5.55,-76.28,POINT (-76.28 5.55),CHOCO
+Restaurante 530,Italiana,3.9,32,202,6.13,-74.17,POINT (-74.17 6.13),SANTANDER
+Restaurante 531,Mexicana,4.5,35,288,4.44,-74.15,POINT (-74.15 4.44),BOGOTA D.C.
+Restaurante 532,Mexicana,3.6,10,239,3.71,-76.19,POINT (-76.19 3.71),VALLE DEL CAUCA
+Restaurante 533,Japonesa,2.6,23,200,4.1,-76.25,POINT (-76.25 4.1),VALLE DEL CAUCA
+Restaurante 534,Mexicana,2.7,41,135,5.09,-75.51,POINT (-75.51 5.09),CALDAS
+Restaurante 535,Italiana,1.3,19,70,6.23,-74.19,POINT (-74.19 6.23),SANTANDER
+Restaurante 536,Francesa,1.1,10,231,4.94,-75.54,POINT (-75.54 4.94),CALDAS
+Restaurante 537,Italiana,3.8,14,368,3.74,-75.63,POINT (-75.63 3.74),TOLIMA
+Restaurante 538,Italiana,2.8,12,207,5.28,-74.81,POINT (-74.81 5.28),TOLIMA
+Restaurante 539,Mexicana,3.2,36,416,5.6,-76.07,POINT (-76.07 5.6),CHOCO
+Restaurante 540,Japonesa,3.2,31,125,4.58,-75.63,POINT (-75.63 4.58),QUINDIO
+Restaurante 541,Colombiana,2.1,27,378,5.56,-75.8,POINT (-75.8 5.56),ANTIOQUIA
+Restaurante 542,Peruana,2.9,25,465,4.37,-75.06,POINT (-75.06 4.37),TOLIMA
+Restaurante 543,Colombiana,2.9,11,252,5.77,-76.11,POINT (-76.11 5.77),CHOCO
+Restaurante 544,Colombiana,2.6,22,278,4.42,-75.18,POINT (-75.18 4.42),TOLIMA
+Restaurante 545,Italiana,4.3,25,201,4.17,-74.44,POINT (-74.44 4.17),CUNDINAMARCA
+Restaurante 546,Mexicana,2.8,17,312,6.04,-75.27,POINT (-75.27 6.04),ANTIOQUIA
+Restaurante 547,Peruana,3.4,17,121,5.05,-74.86,POINT (-74.86 5.05),TOLIMA
+Restaurante 548,Colombiana,4.6,19,274,4.26,-76.32,POINT (-76.32 4.26),VALLE DEL CAUCA
+Restaurante 549,China,4.5,42,434,6.21,-75.42,POINT (-75.42 6.21),ANTIOQUIA
+Restaurante 550,China,4.6,40,180,5.47,-76.27,POINT (-76.27 5.47),CHOCO
+Restaurante 551,China,2.1,21,409,4.06,-75.06,POINT (-75.06 4.06),TOLIMA
+Restaurante 552,Francesa,1.1,18,77,5.24,-75.83,POINT (-75.83 5.24),RISARALDA
+Restaurante 553,Mexicana,2.0,46,348,6.01,-75.81,POINT (-75.81 6.01),ANTIOQUIA
+Restaurante 554,Italiana,2.1,18,146,5.49,-76.32,POINT (-76.32 5.49),CHOCO
+Restaurante 555,Desconocida,4.6,27,95,4.13,-75.76,POINT (-75.76 4.13),QUINDIO
+Restaurante 556,Mexicana,3.6,39,50,5.35,-75.28,POINT (-75.28 5.35),CALDAS
+Restaurante 557,Japonesa,1.3,41,215,5.26,-75.1,POINT (-75.1 5.26),CALDAS
+Restaurante 558,Peruana,1.5,49,294,5.86,-76.34,POINT (-76.34 5.86),CHOCO
+Restaurante 559,Japonesa,1.6,32,268,3.93,-74.94,POINT (-74.94 3.93),TOLIMA
+Restaurante 560,Francesa,3.5,20,151,5.5,-75.33,POINT (-75.33 5.5),CALDAS
+Restaurante 561,Mexicana,3.9,29,340,3.48,-75.21,POINT (-75.21 3.48),TOLIMA
+Restaurante 562,Japonesa,4.4,28,253,5.49,-74.5,POINT (-74.5 5.49),CUNDINAMARCA
+Restaurante 563,Peruana,4.8,45,251,6.28,-75.68,POINT (-75.68 6.28),ANTIOQUIA
+Restaurante 564,Francesa,1.8,35,103,3.92,-76.08,POINT (-76.08 3.92),VALLE DEL CAUCA
+Restaurante 565,Colombiana,2.2,19,329,4.33,-75.18,POINT (-75.18 4.33),TOLIMA
+Restaurante 566,Colombiana,2.0,33,461,5.15,-74.23,POINT (-74.23 5.15),CUNDINAMARCA
+Restaurante 567,Francesa,2.4,22,327,5.6,-75.26,POINT (-75.26 5.6),ANTIOQUIA
+Restaurante 568,Mexicana,4.7,43,65,4.43,-74.5,POINT (-74.5 4.43),CUNDINAMARCA
+Restaurante 569,Colombiana,3.3,38,62,5.39,-74.68,POINT (-74.68 5.39),CUNDINAMARCA
+Restaurante 570,Mexicana,4.0,45,405,6.1,-75.26,POINT (-75.26 6.1),ANTIOQUIA
+Restaurante 571,Japonesa,3.0,16,405,5.58,-74.95,POINT (-74.95 5.58),CALDAS
+Restaurante 572,Colombiana,1.1,39,367,5.53,-75.52,POINT (-75.52 5.53),CALDAS
+Restaurante 573,Peruana,1.3,26,476,4.55,-75.23,POINT (-75.23 4.55),TOLIMA
+Restaurante 574,Peruana,3.2,22,136,6.13,-75.28,POINT (-75.28 6.13),ANTIOQUIA
+Restaurante 575,Japonesa,3.9,33,127,4.23,-74.8,POINT (-74.8 4.23),TOLIMA
+Restaurante 576,Peruana,1.9,40,465,4.02,-75.52,POINT (-75.52 4.02),TOLIMA
+Restaurante 577,Mexicana,3.9,36,116,4.49,-76.26,POINT (-76.26 4.49),VALLE DEL CAUCA
+Restaurante 578,Mexicana,4.2,30,396,5.35,-74.61,POINT (-74.61 5.35),CUNDINAMARCA
+Restaurante 579,Peruana,2.6,10,260,5.99,-74.86,POINT (-74.86 5.99),ANTIOQUIA
+Restaurante 580,China,4.0,24,263,3.8,-74.22,POINT (-74.22 3.8),META
+Restaurante 581,Francesa,2.6,12,234,5.84,-75.47,POINT (-75.47 5.84),ANTIOQUIA
+Restaurante 582,Italiana,3.7,15,498,5.84,-76.31,POINT (-76.31 5.84),CHOCO
+Restaurante 583,Francesa,4.1,23,482,5.16,-76.21,POINT (-76.21 5.16),CHOCO
+Restaurante 584,Peruana,5.0,47,82,5.68,-74.64,POINT (-74.64 5.68),CALDAS
+Restaurante 585,Mexicana,2.4,42,164,3.95,-76.34,POINT (-76.34 3.95),VALLE DEL CAUCA
+Restaurante 586,Mexicana,2.6,47,324,3.91,-74.32,POINT (-74.32 3.91),BOGOTA D.C.
+Restaurante 587,Francesa,1.7,17,469,5.99,-75.82,POINT (-75.82 5.99),ANTIOQUIA
+Restaurante 588,Mexicana,1.8,35,247,4.89,-74.34,POINT (-74.34 4.89),CUNDINAMARCA
+Restaurante 589,Japonesa,3.8,24,429,4.14,-74.64,POINT (-74.64 4.14),TOLIMA
+Restaurante 590,Colombiana,4.7,23,192,5.47,-74.41,POINT (-74.41 5.47),CUNDINAMARCA
+Restaurante 591,Mexicana,2.6,29,277,6.08,-75.99,POINT (-75.99 6.08),ANTIOQUIA
+Restaurante 592,Peruana,1.7,28,169,5.3,-75.07,POINT (-75.07 5.3),CALDAS
+Restaurante 593,Peruana,2.1,42,402,4.44,-76.28,POINT (-76.28 4.44),VALLE DEL CAUCA
+Restaurante 594,Francesa,2.8,45,73,4.85,-76.01,POINT (-76.01 4.85),VALLE DEL CAUCA
+Restaurante 595,Francesa,2.2,33,76,5.66,-75.76,POINT (-75.76 5.66),ANTIOQUIA
+Restaurante 596,Francesa,1.9,19,482,3.6,-74.72,POINT (-74.72 3.6),HUILA
+Restaurante 597,Peruana,3.9,43,124,4.05,-76.44,POINT (-76.44 4.05),VALLE DEL CAUCA
+Restaurante 598,China,1.0,45,290,4.79,-74.33,POINT (-74.33 4.79),CUNDINAMARCA
+Restaurante 599,Peruana,3.2,45,72,5.21,-76.33,POINT (-76.33 5.21),CHOCO
+Restaurante 600,Japonesa,4.2,25,210,4.42,-75.6,POINT (-75.6 4.42),QUINDIO
+Restaurante 601,Peruana,2.1,24,90,4.3,-76.31,POINT (-76.31 4.3),VALLE DEL CAUCA
+Restaurante 602,Japonesa,3.4,27,287,3.52,-74.65,POINT (-74.65 3.52),HUILA
+Restaurante 603,Peruana,3.7,16,288,3.5,-76.16,POINT (-76.16 3.5),VALLE DEL CAUCA
+Restaurante 604,Peruana,3.6,31,105,4.24,-74.38,POINT (-74.38 4.24),CUNDINAMARCA
+Restaurante 605,China,2.8,41,462,4.99,-75.23,POINT (-75.23 4.99),TOLIMA
+Restaurante 606,Japonesa,2.4,28,464,5.07,-74.22,POINT (-74.22 5.07),CUNDINAMARCA
+Restaurante 607,China,4.3,49,498,4.88,-75.8,POINT (-75.8 4.88),RISARALDA
+Restaurante 608,Japonesa,4.0,10,147,4.63,-75.41,POINT (-75.41 4.63),TOLIMA
+Restaurante 609,China,2.3,44,195,4.16,-74.83,POINT (-74.83 4.16),TOLIMA
+Restaurante 610,China,1.4,14,311,4.6,-74.5,POINT (-74.5 4.6),CUNDINAMARCA
+Restaurante 611,Japonesa,1.3,21,485,3.82,-75.49,POINT (-75.49 3.82),TOLIMA
+Restaurante 612,China,1.4,21,89,3.75,-74.36,POINT (-74.36 3.75),META
+Restaurante 613,Peruana,3.3,30,242,4.3,-76.22,POINT (-76.22 4.3),VALLE DEL CAUCA
+Restaurante 614,Japonesa,1.2,28,288,6.39,-74.8,POINT (-74.8 6.39),ANTIOQUIA
+Restaurante 615,China,2.3,18,91,4.38,-75.66,POINT (-75.66 4.38),QUINDIO
+Restaurante 616,Peruana,4.0,45,271,6.21,-76.26,POINT (-76.26 6.21),ANTIOQUIA
+Restaurante 617,Peruana,2.2,41,245,4.58,-75.57,POINT (-75.57 4.58),QUINDIO
+Restaurante 618,Francesa,4.1,44,337,4.72,-74.39,POINT (-74.39 4.72),CUNDINAMARCA
+Restaurante 619,Italiana,4.0,40,59,5.79,-74.15,POINT (-74.15 5.79),BOYACA
+Restaurante 620,Japonesa,2.0,41,284,3.68,-75.56,POINT (-75.56 3.68),TOLIMA
+Restaurante 621,China,3.9,46,374,3.95,-74.37,POINT (-74.37 3.95),CUNDINAMARCA
+Restaurante 622,Francesa,4.0,41,314,6.32,-75.28,POINT (-75.28 6.32),ANTIOQUIA
+Restaurante 623,Italiana,2.6,46,118,4.92,-74.78,POINT (-74.78 4.92),TOLIMA
+Restaurante 624,China,1.8,48,494,3.53,-76.39,POINT (-76.39 3.53),VALLE DEL CAUCA
+Restaurante 625,Italiana,3.1,47,188,3.54,-75.16,POINT (-75.16 3.54),TOLIMA
+Restaurante 626,Japonesa,4.7,39,404,6.12,-76.33,POINT (-76.33 6.12),CHOCO
+Restaurante 627,Peruana,3.6,41,268,6.02,-75.86,POINT (-75.86 6.02),ANTIOQUIA
+Restaurante 628,Peruana,1.7,11,245,4.78,-75.14,POINT (-75.14 4.78),TOLIMA
+Restaurante 629,Italiana,3.7,20,123,3.89,-74.56,POINT (-74.56 3.89),TOLIMA
+Restaurante 630,Peruana,2.7,29,152,5.89,-75.15,POINT (-75.15 5.89),ANTIOQUIA
+Restaurante 631,Colombiana,3.4,46,274,4.37,-74.25,POINT (-74.25 4.37),CUNDINAMARCA
+Restaurante 632,Mexicana,3.9,18,172,4.66,-74.56,POINT (-74.56 4.66),CUNDINAMARCA
+Restaurante 633,Peruana,3.1,47,151,5.45,-76.13,POINT (-76.13 5.45),CHOCO
+Restaurante 634,Colombiana,4.3,28,313,4.46,-75.57,POINT (-75.57 4.46),QUINDIO
+Restaurante 635,Japonesa,3.9,49,482,5.29,-74.9,POINT (-74.9 5.29),TOLIMA
+Restaurante 636,Japonesa,3.5,16,457,6.06,-74.25,POINT (-74.25 6.06),SANTANDER
+Restaurante 637,Italiana,1.6,14,210,5.79,-74.13,POINT (-74.13 5.79),BOYACA
+Restaurante 638,Peruana,4.3,33,282,4.54,-74.67,POINT (-74.67 4.54),CUNDINAMARCA
+Restaurante 639,Peruana,4.7,16,324,4.26,-75.12,POINT (-75.12 4.26),TOLIMA
+Restaurante 640,Peruana,1.5,20,307,4.26,-74.68,POINT (-74.68 4.26),CUNDINAMARCA
+Restaurante 641,Francesa,3.0,18,360,4.45,-75.84,POINT (-75.84 4.45),QUINDIO
+Restaurante 642,China,2.0,500,188,4.88,-75.82,POINT (-75.82 4.88),RISARALDA
+Restaurante 643,Mexicana,4.0,12,276,4.65,-74.93,POINT (-74.93 4.65),TOLIMA
+Restaurante 644,Peruana,3.9,31,322,3.8,-74.41,POINT (-74.41 3.8),BOGOTA D.C.
+Restaurante 645,China,1.6,49,475,3.89,-74.17,POINT (-74.17 3.89),META
+Restaurante 646,Francesa,4.5,29,366,4.43,-75.68,POINT (-75.68 4.43),QUINDIO
+Restaurante 647,Japonesa,1.7,41,436,5.09,-74.59,POINT (-74.59 5.09),CUNDINAMARCA
+Restaurante 648,Mexicana,4.2,16,135,5.18,-74.46,POINT (-74.46 5.18),CUNDINAMARCA
+Restaurante 649,Colombiana,2.8,16,340,4.86,-75.0,POINT (-75 4.86),TOLIMA
+Restaurante 650,Japonesa,2.3,29,266,5.62,-75.67,POINT (-75.67 5.62),ANTIOQUIA
+Restaurante 651,Japonesa,1.6,34,408,5.61,-75.01,POINT (-75.01 5.61),CALDAS
+Restaurante 652,Italiana,1.7,44,115,4.68,-75.1,POINT (-75.1 4.68),TOLIMA
+Restaurante 653,Francesa,3.6,33,306,3.77,-75.04,POINT (-75.04 3.77),TOLIMA
+Restaurante 654,Italiana,3.2,49,184,4.99,-75.01,POINT (-75.01 4.99),TOLIMA
+Restaurante 655,Italiana,1.5,22,453,4.54,-74.47,POINT (-74.47 4.54),CUNDINAMARCA
+Restaurante 656,China,1.5,48,476,3.81,-76.09,POINT (-76.09 3.81),VALLE DEL CAUCA
+Restaurante 657,Japonesa,1.3,13,424,6.35,-75.62,POINT (-75.62 6.35),ANTIOQUIA
+Restaurante 658,Francesa,4.0,21,439,4.51,-75.09,POINT (-75.09 4.51),TOLIMA
+Restaurante 659,Italiana,3.8,26,104,5.28,-75.82,POINT (-75.82 5.28),RISARALDA
+Restaurante 660,Colombiana,1.2,10,405,4.87,-74.15,POINT (-74.15 4.87),CUNDINAMARCA
+Restaurante 661,Mexicana,3.2,26,292,3.83,-75.87,POINT (-75.87 3.83),VALLE DEL CAUCA
+Restaurante 662,Peruana,1.3,11,301,3.57,-75.37,POINT (-75.37 3.57),TOLIMA
+Restaurante 663,Francesa,4.6,15,70,5.28,-74.39,POINT (-74.39 5.28),CUNDINAMARCA
+Restaurante 664,China,4.6,20,356,4.14,-76.31,POINT (-76.31 4.14),VALLE DEL CAUCA
+Restaurante 665,Francesa,3.8,27,479,4.13,-74.53,POINT (-74.53 4.13),TOLIMA
+Restaurante 666,Japonesa,4.7,49,212,6.27,-75.13,POINT (-75.13 6.27),ANTIOQUIA
+Restaurante 667,China,4.2,34,405,4.79,-76.42,POINT (-76.42 4.79),CHOCO
+Restaurante 668,Mexicana,4.3,48,313,3.49,-74.33,POINT (-74.33 3.49),META
+Restaurante 669,Colombiana,3.3,37,117,4.42,-76.41,POINT (-76.41 4.42),VALLE DEL CAUCA
+Restaurante 670,Italiana,2.2,25,156,5.15,-75.26,POINT (-75.26 5.15),CALDAS
+Restaurante 671,Francesa,1.9,21,449,4.39,-76.38,POINT (-76.38 4.39),VALLE DEL CAUCA
+Restaurante 672,China,2.3,38,116,3.48,-76.33,POINT (-76.33 3.48),VALLE DEL CAUCA
+Restaurante 673,Mexicana,3.5,32,248,4.73,-74.37,POINT (-74.37 4.73),CUNDINAMARCA
+Restaurante 674,Italiana,1.7,30,241,3.72,-74.66,POINT (-74.66 3.72),TOLIMA
+Restaurante 675,Peruana,2.0,25,51,5.26,-76.03,POINT (-76.03 5.26),RISARALDA
+Restaurante 676,Mexicana,2.9,35,306,5.26,-75.01,POINT (-75.01 5.26),TOLIMA
+Restaurante 677,Colombiana,1.9,46,491,3.51,-74.59,POINT (-74.59 3.51),META
+Restaurante 678,Italiana,3.4,31,50,4.27,-74.36,POINT (-74.36 4.27),CUNDINAMARCA
+Restaurante 679,Italiana,4.7,19,407,4.64,-75.38,POINT (-75.38 4.64),TOLIMA
+Restaurante 680,Peruana,4.0,16,164,5.05,-74.35,POINT (-74.35 5.05),CUNDINAMARCA
+Restaurante 681,China,3.7,18,440,4.29,-75.28,POINT (-75.28 4.29),TOLIMA
+Restaurante 682,China,3.3,34,137,4.26,-74.85,POINT (-74.85 4.26),TOLIMA
+Restaurante 683,Italiana,3.0,24,246,6.35,-74.15,POINT (-74.15 6.35),SANTANDER
+Restaurante 684,Mexicana,1.7,22,141,3.53,-75.93,POINT (-75.93 3.53),TOLIMA
+Restaurante 685,China,4.6,35,323,6.37,-76.1,POINT (-76.1 6.37),ANTIOQUIA
+Restaurante 686,Italiana,2.0,30,393,3.54,-75.68,POINT (-75.68 3.54),TOLIMA
+Restaurante 687,Mexicana,1.4,32,209,4.27,-76.11,POINT (-76.11 4.27),VALLE DEL CAUCA
+Restaurante 688,Mexicana,4.0,37,222,4.88,-75.82,POINT (-75.82 4.88),RISARALDA
+Restaurante 689,Francesa,1.7,47,82,3.83,-74.72,POINT (-74.72 3.83),TOLIMA
+Restaurante 690,Mexicana,2.5,21,122,3.8,-75.35,POINT (-75.35 3.8),TOLIMA
+Restaurante 691,Peruana,1.1,33,482,4.17,-75.6,POINT (-75.6 4.17),TOLIMA
+Restaurante 692,Japonesa,1.5,22,466,6.32,-75.62,POINT (-75.62 6.32),ANTIOQUIA
+Restaurante 693,Desconocida,1.7,49,245,4.54,-76.03,POINT (-76.03 4.54),VALLE DEL CAUCA
+Restaurante 694,Italiana,1.2,-10,333,5.1,-75.43,POINT (-75.43 5.1),CALDAS
+Restaurante 695,Peruana,3.6,48,136,5.51,-75.0,POINT (-75 5.51),CALDAS
+Restaurante 696,Italiana,4.3,21,358,5.63,-76.17,POINT (-76.17 5.63),CHOCO
+Restaurante 697,Italiana,2.5,48,273,5.46,-74.17,POINT (-74.17 5.46),BOYACA
+Restaurante 698,Mexicana,4.5,23,93,4.41,-75.44,POINT (-75.44 4.41),TOLIMA
+Restaurante 699,Mexicana,1.9,39,385,3.74,-74.22,POINT (-74.22 3.74),META
+Restaurante 700,Italiana,2.3,28,488,4.25,-76.18,POINT (-76.18 4.25),VALLE DEL CAUCA
+Restaurante 701,Japonesa,1.6,40,187,4.03,-74.66,POINT (-74.66 4.03),TOLIMA
+Restaurante 702,China,3.5,34,319,3.81,-75.02,POINT (-75.02 3.81),TOLIMA
+Restaurante 703,China,2.7,13,408,3.47,-74.53,POINT (-74.53 3.47),META
+Restaurante 704,Colombiana,3.5,22,85,6.21,-75.06,POINT (-75.06 6.21),ANTIOQUIA
+Restaurante 705,Francesa,4.0,45,83,6.16,-74.19,POINT (-74.19 6.16),SANTANDER
+Restaurante 706,Peruana,3.2,46,137,3.55,-75.0,POINT (-75 3.55),TOLIMA
+Restaurante 707,Colombiana,3.5,12,195,3.92,-74.62,POINT (-74.62 3.92),TOLIMA
+Restaurante 708,Italiana,4.7,25,65,3.82,-74.39,POINT (-74.39 3.82),BOGOTA D.C.
+Restaurante 709,Peruana,2.2,35,282,4.24,-74.78,POINT (-74.78 4.24),TOLIMA
+Restaurante 710,Italiana,2.4,49,470,4.01,-75.24,POINT (-75.24 4.01),TOLIMA
+Restaurante 711,Italiana,3.9,48,90,6.24,-75.85,POINT (-75.85 6.24),ANTIOQUIA
+Restaurante 712,Francesa,3.4,28,304,3.65,-74.45,POINT (-74.45 3.65),META
+Restaurante 713,Mexicana,1.7,24,330,4.04,-75.35,POINT (-75.35 4.04),TOLIMA
+Restaurante 714,Francesa,2.5,41,175,3.64,-75.01,POINT (-75.01 3.64),TOLIMA
+Restaurante 715,Colombiana,2.9,30,57,6.34,-76.31,POINT (-76.31 6.34),ANTIOQUIA
+Restaurante 716,Mexicana,2.7,10,417,6.16,-75.31,POINT (-75.31 6.16),ANTIOQUIA
+Restaurante 717,Mexicana,1.7,15,399,5.55,-74.82,POINT (-74.82 5.55),CALDAS
+Restaurante 718,Colombiana,4.7,36,389,4.68,-75.1,POINT (-75.1 4.68),TOLIMA
+Restaurante 719,Mexicana,4.0,32,451,3.97,-75.42,POINT (-75.42 3.97),TOLIMA
+Restaurante 720,Peruana,2.9,40,373,4.06,-75.96,POINT (-75.96 4.06),VALLE DEL CAUCA
+Restaurante 721,China,3.7,21,225,4.73,-75.76,POINT (-75.76 4.73),RISARALDA
+Restaurante 722,Colombiana,4.6,30,277,5.7,-74.82,POINT (-74.82 5.7),CALDAS
+Restaurante 723,Colombiana,1.5,11,372,4.19,-75.96,POINT (-75.96 4.19),VALLE DEL CAUCA
+Restaurante 724,China,2.0,14,451,4.33,-75.01,POINT (-75.01 4.33),TOLIMA
+Restaurante 725,Francesa,3.2,18,416,5.2,-75.08,POINT (-75.08 5.2),TOLIMA
+Restaurante 726,Francesa,4.2,29,67,4.11,-74.17,POINT (-74.17 4.11),BOGOTA D.C.
+Restaurante 727,Francesa,1.1,27,105,5.15,-76.35,POINT (-76.35 5.15),CHOCO
+Restaurante 728,Mexicana,4.9,31,456,4.56,-76.24,POINT (-76.24 4.56),VALLE DEL CAUCA
+Restaurante 729,China,2.8,17,84,3.5,-75.29,POINT (-75.29 3.5),TOLIMA
+Restaurante 730,Peruana,2.4,43,439,4.61,-75.23,POINT (-75.23 4.61),TOLIMA
+Restaurante 731,Colombiana,2.2,18,167,6.16,-76.4,POINT (-76.4 6.16),CHOCO
+Restaurante 732,Colombiana,1.7,16,331,4.28,-74.52,POINT (-74.52 4.28),CUNDINAMARCA
+Restaurante 733,Colombiana,4.2,39,303,4.37,-75.31,POINT (-75.31 4.37),TOLIMA
+Restaurante 734,Mexicana,4.8,27,262,3.6,-75.67,POINT (-75.67 3.6),TOLIMA
+Restaurante 735,Mexicana,2.7,36,110,5.25,-75.73,POINT (-75.73 5.25),CALDAS
+Restaurante 736,Japonesa,4.8,25,137,5.95,-74.43,POINT (-74.43 5.95),BOYACA
+Restaurante 737,Peruana,4.3,30,320,4.46,-76.03,POINT (-76.03 4.46),VALLE DEL CAUCA
+Restaurante 738,Francesa,2.9,14,396,4.12,-76.11,POINT (-76.11 4.12),VALLE DEL CAUCA
+Restaurante 739,Japonesa,3.7,38,81,6.27,-75.99,POINT (-75.99 6.27),ANTIOQUIA
+Restaurante 740,Japonesa,2.7,46,445,5.64,-75.0,POINT (-75 5.64),CALDAS
+Restaurante 741,Mexicana,3.2,31,182,5.1,-74.55,POINT (-74.55 5.1),CUNDINAMARCA
+Restaurante 742,Francesa,1.2,23,113,4.32,-75.71,POINT (-75.71 4.32),QUINDIO
+Restaurante 743,Francesa,3.8,28,248,4.06,-76.08,POINT (-76.08 4.06),VALLE DEL CAUCA
+Restaurante 744,Colombiana,1.2,44,305,5.55,-76.0,POINT (-76 5.55),ANTIOQUIA
+Restaurante 745,Mexicana,4.3,33,391,4.97,-75.01,POINT (-75.01 4.97),TOLIMA
+Restaurante 746,Francesa,4.3,15,204,4.96,-75.91,POINT (-75.91 4.96),RISARALDA
+Restaurante 747,Japonesa,1.9,12,280,3.62,-74.39,POINT (-74.39 3.62),META
+Restaurante 748,China,2.3,43,350,4.94,-76.25,POINT (-76.25 4.94),CHOCO
+Restaurante 749,China,2.9,11,84,5.87,-76.42,POINT (-76.42 5.87),CHOCO
+Restaurante 750,Mexicana,3.4,24,75,6.24,-76.29,POINT (-76.29 6.24),ANTIOQUIA
+Restaurante 751,Colombiana,2.1,46,72,3.72,-74.47,POINT (-74.47 3.72),HUILA
+Restaurante 752,Colombiana,3.4,24,190,5.29,-74.94,POINT (-74.94 5.29),TOLIMA
+Restaurante 753,Francesa,2.2,41,436,5.11,-74.2,POINT (-74.2 5.11),CUNDINAMARCA
+Restaurante 754,Peruana,1.2,30,334,6.07,-75.69,POINT (-75.69 6.07),ANTIOQUIA
+Restaurante 755,Mexicana,1.0,26,499,5.65,-75.99,POINT (-75.99 5.65),ANTIOQUIA
+Restaurante 756,Peruana,1.4,43,369,6.3,-75.15,POINT (-75.15 6.3),ANTIOQUIA
+Restaurante 757,China,4.2,41,205,6.28,-75.21,POINT (-75.21 6.28),ANTIOQUIA
+Restaurante 758,Japonesa,4.8,32,469,4.08,-75.08,POINT (-75.08 4.08),TOLIMA
+Restaurante 759,Francesa,2.7,44,162,5.58,-75.67,POINT (-75.67 5.58),ANTIOQUIA
+Restaurante 760,Japonesa,3.1,46,439,4.99,-76.49,POINT (-76.49 4.99),CHOCO
+Restaurante 761,Peruana,1.6,46,188,4.04,-76.42,POINT (-76.42 4.04),VALLE DEL CAUCA
+Restaurante 762,Francesa,3.2,42,471,3.98,-74.91,POINT (-74.91 3.98),TOLIMA
+Restaurante 763,Italiana,1.6,34,423,3.64,-75.24,POINT (-75.24 3.64),TOLIMA
+Restaurante 764,Japonesa,3.4,46,467,5.79,-74.53,POINT (-74.53 5.79),BOYACA
+Restaurante 765,Mexicana,4.7,49,258,4.37,-75.78,POINT (-75.78 4.37),QUINDIO
+Restaurante 766,Japonesa,1.8,30,372,5.97,-74.54,POINT (-74.54 5.97),BOYACA
+Restaurante 768,Francesa,1.1,49,479,5.42,-76.27,POINT (-76.27 5.42),CHOCO
+Restaurante 769,China,2.5,43,135,4.28,-74.15,POINT (-74.15 4.28),BOGOTA D.C.
+Restaurante 770,Peruana,1.4,28,334,4.77,-75.27,POINT (-75.27 4.77),TOLIMA
+Restaurante 771,Italiana,2.4,36,109,4.64,-74.99,POINT (-74.99 4.64),TOLIMA
+Restaurante 772,Japonesa,1.7,18,103,4.11,-74.89,POINT (-74.89 4.11),TOLIMA
+Restaurante 773,Peruana,2.5,14,142,5.9,-75.63,POINT (-75.63 5.9),ANTIOQUIA
+Restaurante 774,Peruana,2.7,14,374,5.27,-74.71,POINT (-74.71 5.27),CUNDINAMARCA
+Restaurante 775,China,2.2,34,422,3.51,-74.41,POINT (-74.41 3.51),META
+Restaurante 776,Colombiana,3.6,35,314,5.86,-75.57,POINT (-75.57 5.86),ANTIOQUIA
+Restaurante 777,Italiana,4.7,28,431,3.72,-74.92,POINT (-74.92 3.72),TOLIMA
+Restaurante 778,Italiana,2.6,39,262,4.61,-74.68,POINT (-74.68 4.61),CUNDINAMARCA
+Restaurante 779,Peruana,1.8,45,382,5.11,-76.04,POINT (-76.04 5.11),RISARALDA
+Restaurante 780,Francesa,2.1,25,59,3.42,-75.7,POINT (-75.7 3.42),TOLIMA
+Restaurante 781,Japonesa,4.4,16,407,5.36,-76.24,POINT (-76.24 5.36),RISARALDA
+Restaurante 782,Colombiana,3.3,27,252,5.38,-75.05,POINT (-75.05 5.38),CALDAS
+Restaurante 783,Francesa,2.8,30,245,5.36,-74.58,POINT (-74.58 5.36),CUNDINAMARCA
+Restaurante 784,Mexicana,1.6,40,107,3.89,-75.03,POINT (-75.03 3.89),TOLIMA
+Restaurante 785,China,2.8,10,305,4.17,-76.07,POINT (-76.07 4.17),VALLE DEL CAUCA
+Restaurante 786,China,2.1,12,272,4.14,-75.19,POINT (-75.19 4.14),TOLIMA
+Restaurante 787,Francesa,4.8,40,418,6.28,-74.5,POINT (-74.5 6.28),SANTANDER
+Restaurante 788,Peruana,4.5,34,229,3.6,-75.77,POINT (-75.77 3.6),TOLIMA
+Restaurante 789,China,1.3,17,467,4.69,-74.5,POINT (-74.5 4.69),CUNDINAMARCA
+Restaurante 790,Japonesa,3.1,10,411,6.01,-74.62,POINT (-74.62 6.01),ANTIOQUIA
+Restaurante 791,China,1.9,16,84,5.71,-76.45,POINT (-76.45 5.71),CHOCO
+Restaurante 792,Japonesa,2.6,16,408,5.87,-75.93,POINT (-75.93 5.87),ANTIOQUIA
+Restaurante 793,Mexicana,4.5,17,152,6.32,-75.2,POINT (-75.2 6.32),ANTIOQUIA
+Restaurante 794,Colombiana,3.1,28,210,4.56,-74.78,POINT (-74.78 4.56),CUNDINAMARCA
+Restaurante 795,Italiana,2.3,26,249,4.33,-74.39,POINT (-74.39 4.33),CUNDINAMARCA
+Restaurante 796,Francesa,1.8,20,209,3.49,-74.96,POINT (-74.96 3.49),TOLIMA
+Restaurante 797,Francesa,4.2,20,232,3.85,-75.59,POINT (-75.59 3.85),TOLIMA
+Restaurante 798,Japonesa,3.5,47,402,5.09,-76.06,POINT (-76.06 5.09),RISARALDA
+Restaurante 799,Mexicana,2.9,11,185,3.87,-74.68,POINT (-74.68 3.87),TOLIMA
+Restaurante 800,Mexicana,1.9,13,479,5.61,-76.0,POINT (-76 5.61),ANTIOQUIA
+Restaurante 801,Peruana,2.3,37,447,3.51,-74.83,POINT (-74.83 3.51),TOLIMA
+Restaurante 802,Italiana,4.8,42,275,4.18,-76.07,POINT (-76.07 4.18),VALLE DEL CAUCA
+Restaurante 803,Colombiana,3.1,20,441,5.49,-76.28,POINT (-76.28 5.49),CHOCO
+Restaurante 804,Francesa,2.6,12,292,4.17,-75.9,POINT (-75.9 4.17),VALLE DEL CAUCA
+Restaurante 805,Japonesa,3.1,49,155,5.59,-75.82,POINT (-75.82 5.59),ANTIOQUIA
+Restaurante 806,Mexicana,4.1,14,120,6.39,-74.95,POINT (-74.95 6.39),ANTIOQUIA
+Restaurante 807,Francesa,2.4,1000,126,5.79,-76.11,POINT (-76.11 5.79),CHOCO
+Restaurante 808,Japonesa,1.7,31,103,4.43,-74.27,POINT (-74.27 4.43),CUNDINAMARCA
+Restaurante 809,China,3.3,46,326,6.1,-75.17,POINT (-75.17 6.1),ANTIOQUIA
+Restaurante 810,Francesa,3.7,20,160,3.55,-75.32,POINT (-75.32 3.55),TOLIMA
+Restaurante 811,Colombiana,3.9,31,273,5.58,-75.46,POINT (-75.46 5.58),CALDAS
+Restaurante 812,Japonesa,4.5,22,124,3.47,-75.14,POINT (-75.14 3.47),TOLIMA
+Restaurante 813,Colombiana,2.5,12,63,3.92,-76.45,POINT (-76.45 3.92),VALLE DEL CAUCA
+Restaurante 814,Francesa,1.3,22,307,6.36,-74.12,POINT (-74.12 6.36),SANTANDER
+Restaurante 815,China,4.8,37,238,4.48,-75.16,POINT (-75.16 4.48),TOLIMA
+Restaurante 816,Colombiana,2.7,20,413,5.86,-76.42,POINT (-76.42 5.86),CHOCO
+Restaurante 817,Mexicana,3.5,20,288,4.53,-75.08,POINT (-75.08 4.53),TOLIMA
+Restaurante 818,Japonesa,3.7,30,450,5.92,-75.45,POINT (-75.45 5.92),ANTIOQUIA
+Restaurante 819,Francesa,3.2,30,383,6.3,-76.44,POINT (-76.44 6.3),ANTIOQUIA
+Restaurante 820,China,1.8,16,353,4.71,-74.28,POINT (-74.28 4.71),CUNDINAMARCA
+Restaurante 821,Mexicana,4.0,26,140,5.08,-76.47,POINT (-76.47 5.08),CHOCO
+Restaurante 822,Francesa,4.2,23,441,5.29,-75.11,POINT (-75.11 5.29),CALDAS
+Restaurante 823,Peruana,3.2,42,233,6.2,-74.19,POINT (-74.19 6.2),SANTANDER
+Restaurante 824,China,3.0,20,66,4.17,-75.93,POINT (-75.93 4.17),VALLE DEL CAUCA
+Restaurante 825,Mexicana,1.5,22,61,5.23,-75.89,POINT (-75.89 5.23),RISARALDA
+Restaurante 826,Colombiana,1.3,10,215,4.37,-76.5,POINT (-76.5 4.37),VALLE DEL CAUCA
+Restaurante 827,Francesa,2.4,43,195,4.05,-76.34,POINT (-76.34 4.05),VALLE DEL CAUCA
+Restaurante 828,Francesa,2.2,18,331,3.65,-76.39,POINT (-76.39 3.65),VALLE DEL CAUCA
+Restaurante 829,Colombiana,4.8,22,86,5.26,-74.53,POINT (-74.53 5.26),CUNDINAMARCA
+Restaurante 830,Peruana,4.1,46,119,6.05,-74.49,POINT (-74.49 6.05),BOYACA
+Restaurante 831,Italiana,3.6,39,218,4.45,-74.76,POINT (-74.76 4.45),CUNDINAMARCA
+Restaurante 832,Mexicana,3.1,46,384,5.06,-75.65,POINT (-75.65 5.06),CALDAS
+Restaurante 833,Colombiana,1.7,16,219,5.33,-74.53,POINT (-74.53 5.33),CUNDINAMARCA
+Restaurante 834,Francesa,4.9,23,302,4.64,-75.2,POINT (-75.2 4.64),TOLIMA
+Restaurante 835,Mexicana,2.5,15,395,6.11,-75.77,POINT (-75.77 6.11),ANTIOQUIA
+Restaurante 836,Peruana,1.4,43,346,4.49,-75.45,POINT (-75.45 4.49),TOLIMA
+Restaurante 837,Mexicana,3.0,25,480,3.78,-76.34,POINT (-76.34 3.78),VALLE DEL CAUCA
+Restaurante 838,Italiana,4.5,46,191,3.83,-74.23,POINT (-74.23 3.83),META
+Restaurante 839,Francesa,4.5,45,434,6.07,-75.01,POINT (-75.01 6.07),ANTIOQUIA
+Restaurante 840,China,1.0,15,322,6.36,-74.75,POINT (-74.75 6.36),ANTIOQUIA
+Restaurante 841,Italiana,4.5,17,274,4.27,-74.88,POINT (-74.88 4.27),CUNDINAMARCA
+Restaurante 842,Italiana,2.1,33,232,3.83,-74.9,POINT (-74.9 3.83),TOLIMA
+Restaurante 843,China,1.2,12,270,4.85,-76.46,POINT (-76.46 4.85),CHOCO
+Restaurante 844,China,4.4,13,102,5.53,-75.24,POINT (-75.24 5.53),ANTIOQUIA
+Restaurante 845,Peruana,4.5,41,167,5.24,-74.53,POINT (-74.53 5.24),CUNDINAMARCA
+Restaurante 846,Peruana,3.4,10,414,6.25,-76.39,POINT (-76.39 6.25),ANTIOQUIA
+Restaurante 847,Italiana,3.3,43,208,5.85,-74.21,POINT (-74.21 5.85),BOYACA
+Restaurante 848,Mexicana,4.3,18,495,6.01,-75.48,POINT (-75.48 6.01),ANTIOQUIA
+Restaurante 849,Colombiana,4.1,21,185,5.03,-75.8,POINT (-75.8 5.03),CALDAS
+Restaurante 850,Colombiana,4.6,19,463,4.38,-75.22,POINT (-75.22 4.38),TOLIMA
+Restaurante 851,Italiana,3.2,19,126,5.51,-74.58,POINT (-74.58 5.51),CUNDINAMARCA
+Restaurante 852,Mexicana,4.9,32,385,4.72,-75.36,POINT (-75.36 4.72),TOLIMA
+Restaurante 853,China,5.0,15,499,4.26,-74.95,POINT (-74.95 4.26),TOLIMA
+Restaurante 854,Japonesa,1.5,33,94,3.86,-75.3,POINT (-75.3 3.86),TOLIMA
+Restaurante 855,Italiana,4.4,33,67,4.98,-74.98,POINT (-74.98 4.98),TOLIMA
+Restaurante 856,Francesa,3.0,30,404,5.18,-76.17,POINT (-76.17 5.18),RISARALDA
+Restaurante 857,Mexicana,2.6,40,478,5.11,-76.41,POINT (-76.41 5.11),CHOCO
+Restaurante 858,Francesa,3.5,39,452,3.75,-76.17,POINT (-76.17 3.75),VALLE DEL CAUCA
+Restaurante 859,Francesa,1.2,43,254,5.11,-75.81,POINT (-75.81 5.11),CALDAS
+Restaurante 860,Italiana,3.0,27,373,3.91,-75.89,POINT (-75.89 3.91),VALLE DEL CAUCA
+Restaurante 861,Mexicana,4.5,21,132,5.39,-75.02,POINT (-75.02 5.39),CALDAS
+Restaurante 862,Francesa,1.9,44,99,4.69,-75.41,POINT (-75.41 4.69),QUINDIO
+Restaurante 863,Peruana,2.7,16,330,5.95,-76.41,POINT (-76.41 5.95),CHOCO
+Restaurante 864,Peruana,4.8,49,215,5.73,-76.42,POINT (-76.42 5.73),CHOCO
+Restaurante 865,Mexicana,2.7,34,292,5.57,-76.28,POINT (-76.28 5.57),CHOCO
+Restaurante 866,Colombiana,2.4,15,426,5.5,-75.65,POINT (-75.65 5.5),CALDAS
+Restaurante 867,Japonesa,2.8,10,213,5.08,-76.49,POINT (-76.49 5.08),CHOCO
+Restaurante 868,Francesa,3.1,25,373,3.58,-75.31,POINT (-75.31 3.58),TOLIMA
+Restaurante 869,Francesa,3.5,13,105,5.37,-75.63,POINT (-75.63 5.37),CALDAS
+Restaurante 870,Mexicana,4.2,38,88,4.8,-75.17,POINT (-75.17 4.8),TOLIMA
+Restaurante 871,Peruana,2.8,47,368,4.81,-74.77,POINT (-74.77 4.81),TOLIMA
+Restaurante 872,Japonesa,4.3,37,177,4.54,-75.9,POINT (-75.9 4.54),VALLE DEL CAUCA
+Restaurante 873,Colombiana,3.1,31,440,6.19,-76.12,POINT (-76.12 6.19),ANTIOQUIA
+Restaurante 874,Francesa,2.4,17,171,4.15,-75.83,POINT (-75.83 4.15),QUINDIO
+Restaurante 875,Italiana,3.6,41,296,4.35,-76.5,POINT (-76.5 4.35),VALLE DEL CAUCA
+Restaurante 876,Peruana,3.9,42,235,6.29,-76.21,POINT (-76.21 6.29),ANTIOQUIA
+Restaurante 877,Mexicana,3.2,22,257,5.83,-74.7,POINT (-74.7 5.83),ANTIOQUIA
+Restaurante 878,Mexicana,1.2,36,364,3.44,-75.97,POINT (-75.97 3.44),TOLIMA
+Restaurante 879,Peruana,1.7,27,353,6.12,-74.11,POINT (-74.11 6.12),SANTANDER
+Restaurante 880,Francesa,2.1,27,438,4.08,-76.1,POINT (-76.1 4.08),VALLE DEL CAUCA
+Restaurante 881,Colombiana,2.1,22,288,5.52,-74.61,POINT (-74.61 5.52),CUNDINAMARCA
+Restaurante 882,Francesa,3.7,31,264,5.06,-74.81,POINT (-74.81 5.06),TOLIMA
+Restaurante 883,Peruana,1.1,23,341,5.01,-75.73,POINT (-75.73 5.01),RISARALDA
+Restaurante 884,China,4.0,20,273,5.55,-75.71,POINT (-75.71 5.55),ANTIOQUIA
+Restaurante 885,Francesa,2.1,48,137,4.02,-75.15,POINT (-75.15 4.02),TOLIMA
+Restaurante 886,Japonesa,2.2,31,74,3.88,-74.45,POINT (-74.45 3.88),CUNDINAMARCA
+Restaurante 887,Peruana,3.1,45,478,5.36,-75.57,POINT (-75.57 5.36),CALDAS
+Restaurante 888,Japonesa,1.9,26,269,4.27,-76.35,POINT (-76.35 4.27),VALLE DEL CAUCA
+Restaurante 889,Peruana,4.5,41,324,6.32,-75.6,POINT (-75.6 6.32),ANTIOQUIA
+Restaurante 890,China,1.3,23,184,4.75,-76.0,POINT (-76 4.75),VALLE DEL CAUCA
+Restaurante 891,Japonesa,2.8,38,491,3.73,-74.25,POINT (-74.25 3.73),META
+Restaurante 892,Japonesa,4.4,15,282,5.46,-74.83,POINT (-74.83 5.46),CALDAS
+Restaurante 893,Italiana,3.5,13,115,4.32,-76.38,POINT (-76.38 4.32),VALLE DEL CAUCA
+Restaurante 894,Mexicana,2.2,20,129,3.85,-75.8,POINT (-75.8 3.85),TOLIMA
+Restaurante 895,Japonesa,2.7,49,472,4.67,-76.38,POINT (-76.38 4.67),CHOCO
+Restaurante 896,Mexicana,3.8,19,304,6.29,-74.51,POINT (-74.51 6.29),ANTIOQUIA
+Restaurante 897,Peruana,4.9,37,174,4.63,-74.32,POINT (-74.32 4.63),CUNDINAMARCA
+Restaurante 898,Colombiana,4.6,20,195,4.44,-76.23,POINT (-76.23 4.44),VALLE DEL CAUCA
+Restaurante 899,Francesa,2.4,44,152,4.73,-75.44,POINT (-75.44 4.73),RISARALDA
+Restaurante 900,Italiana,5.0,24,434,3.44,-74.26,POINT (-74.26 3.44),META
+Restaurante 901,Peruana,1.0,17,496,3.8,-76.15,POINT (-76.15 3.8),VALLE DEL CAUCA
+Restaurante 902,China,1.1,29,436,5.95,-75.8,POINT (-75.8 5.95),ANTIOQUIA
+Restaurante 903,Colombiana,4.3,30,432,6.33,-75.77,POINT (-75.77 6.33),ANTIOQUIA
+Restaurante 904,Italiana,1.8,10,326,3.87,-76.43,POINT (-76.43 3.87),VALLE DEL CAUCA
+Restaurante 905,Italiana,1.2,38,431,5.01,-76.41,POINT (-76.41 5.01),CHOCO
+Restaurante 906,Peruana,1.9,33,173,6.3,-74.21,POINT (-74.21 6.3),SANTANDER
+Restaurante 907,China,2.7,39,463,3.87,-75.13,POINT (-75.13 3.87),TOLIMA
+Restaurante 908,China,3.9,49,316,3.96,-75.76,POINT (-75.76 3.96),TOLIMA
+Restaurante 909,Mexicana,3.5,44,327,6.18,-75.59,POINT (-75.59 6.18),ANTIOQUIA
+Restaurante 910,Francesa,2.0,42,160,5.52,-74.78,POINT (-74.78 5.52),CALDAS
+Restaurante 911,Peruana,3.0,29,430,3.86,-75.62,POINT (-75.62 3.86),TOLIMA
+Restaurante 912,Colombiana,4.7,25,362,4.58,-75.95,POINT (-75.95 4.58),VALLE DEL CAUCA
+Restaurante 913,Francesa,4.3,18,138,3.57,-76.26,POINT (-76.26 3.57),VALLE DEL CAUCA
+Restaurante 914,Colombiana,2.3,40,436,4.7,-74.75,POINT (-74.75 4.7),CUNDINAMARCA
+Restaurante 915,Italiana,4.9,26,207,5.73,-76.07,POINT (-76.07 5.73),ANTIOQUIA
+Restaurante 916,Japonesa,3.8,40,265,5.06,-76.33,POINT (-76.33 5.06),CHOCO
+Restaurante 917,Japonesa,1.2,32,433,5.34,-75.48,POINT (-75.48 5.34),CALDAS
+Restaurante 918,Peruana,1.1,15,350,4.38,-76.41,POINT (-76.41 4.38),VALLE DEL CAUCA
+Restaurante 919,China,1.7,39,85,3.88,-74.18,POINT (-74.18 3.88),META
+Restaurante 920,China,3.9,16,136,3.44,-74.99,POINT (-74.99 3.44),TOLIMA
+Restaurante 921,Italiana,1.7,49,167,5.86,-76.13,POINT (-76.13 5.86),CHOCO
+Restaurante 922,Italiana,3.0,20,377,5.31,-76.09,POINT (-76.09 5.31),RISARALDA
+Restaurante 923,Colombiana,1.4,43,497,4.09,-75.13,POINT (-75.13 4.09),TOLIMA
+Restaurante 924,Italiana,4.7,21,231,4.66,-75.64,POINT (-75.64 4.66),QUINDIO
+Restaurante 925,Peruana,2.4,36,117,5.8,-74.64,POINT (-74.64 5.8),BOYACA
+Restaurante 926,Colombiana,4.6,21,483,5.02,-75.19,POINT (-75.19 5.02),TOLIMA
+Restaurante 927,Francesa,4.8,22,408,4.3,-75.46,POINT (-75.46 4.3),TOLIMA
+Restaurante 928,China,1.0,17,208,4.2,-74.19,POINT (-74.19 4.2),BOGOTA D.C.
+Restaurante 929,China,2.9,25,334,4.05,-75.56,POINT (-75.56 4.05),TOLIMA
+Restaurante 930,Japonesa,1.1,38,492,5.87,-75.54,POINT (-75.54 5.87),ANTIOQUIA
+Restaurante 931,Japonesa,4.6,44,213,5.15,-74.9,POINT (-74.9 5.15),TOLIMA
+Restaurante 932,Peruana,3.1,38,410,5.53,-74.56,POINT (-74.56 5.53),CUNDINAMARCA
+Restaurante 933,China,1.3,40,122,5.98,-75.0,POINT (-75 5.98),ANTIOQUIA
+Restaurante 934,Peruana,1.4,22,168,6.36,-74.82,POINT (-74.82 6.36),ANTIOQUIA
+Restaurante 935,Francesa,2.5,21,390,4.15,-75.6,POINT (-75.6 4.15),TOLIMA
+Restaurante 936,Francesa,4.8,11,244,3.94,-75.35,POINT (-75.35 3.94),TOLIMA
+Restaurante 937,Mexicana,3.8,42,138,4.79,-76.03,POINT (-76.03 4.79),VALLE DEL CAUCA
+Restaurante 938,Colombiana,4.5,17,394,3.51,-74.87,POINT (-74.87 3.51),TOLIMA
+Restaurante 939,Japonesa,2.5,49,125,5.78,-75.97,POINT (-75.97 5.78),ANTIOQUIA
+Restaurante 940,Colombiana,1.2,41,270,6.05,-76.5,POINT (-76.5 6.05),CHOCO
+Restaurante 941,Japonesa,4.9,47,188,5.46,-74.26,POINT (-74.26 5.46),CUNDINAMARCA
+Restaurante 942,Mexicana,1.1,37,421,4.2,-75.77,POINT (-75.77 4.2),QUINDIO
+Restaurante 943,China,4.8,24,444,3.77,-76.03,POINT (-76.03 3.77),VALLE DEL CAUCA
+Restaurante 944,Peruana,2.5,32,290,4.55,-75.86,POINT (-75.86 4.55),QUINDIO
+Restaurante 945,Colombiana,1.0,33,203,5.9,-75.71,POINT (-75.71 5.9),ANTIOQUIA
+Restaurante 946,Japonesa,3.8,22,102,4.44,-75.36,POINT (-75.36 4.44),TOLIMA
+Restaurante 947,Colombiana,4.9,30,191,3.5,-76.33,POINT (-76.33 3.5),VALLE DEL CAUCA
+Restaurante 948,China,4.9,21,369,4.22,-76.37,POINT (-76.37 4.22),VALLE DEL CAUCA
+Restaurante 949,Peruana,1.6,22,443,6.37,-75.8,POINT (-75.8 6.37),ANTIOQUIA
+Restaurante 950,Italiana,1.7,48,80,5.43,-75.79,POINT (-75.79 5.43),CALDAS
+Restaurante 951,Japonesa,3.3,32,272,6.1,-76.22,POINT (-76.22 6.1),CHOCO
+Restaurante 952,Italiana,3.5,37,341,5.72,-75.53,POINT (-75.53 5.72),ANTIOQUIA
+Restaurante 953,Mexicana,4.0,23,315,5.02,-75.82,POINT (-75.82 5.02),CALDAS
+Restaurante 954,Peruana,1.7,26,331,3.85,-76.44,POINT (-76.44 3.85),VALLE DEL CAUCA
+Restaurante 955,Francesa,4.8,33,325,4.45,-74.37,POINT (-74.37 4.45),CUNDINAMARCA
+Restaurante 956,Colombiana,3.6,43,430,5.15,-74.37,POINT (-74.37 5.15),CUNDINAMARCA
+Restaurante 957,Japonesa,4.4,31,93,6.01,-76.0,POINT (-76 6.01),ANTIOQUIA
+Restaurante 958,Colombiana,3.2,19,111,4.21,-76.11,POINT (-76.11 4.21),VALLE DEL CAUCA
+Restaurante 959,Mexicana,2.7,17,250,3.76,-75.19,POINT (-75.19 3.76),TOLIMA
+Restaurante 960,Mexicana,4.9,30,384,5.08,-74.99,POINT (-74.99 5.08),TOLIMA
+Restaurante 961,Colombiana,3.3,46,58,3.93,-74.2,POINT (-74.2 3.93),META
+Restaurante 962,Japonesa,4.5,16,120,5.23,-75.59,POINT (-75.59 5.23),CALDAS
+Restaurante 963,Peruana,4.8,35,139,4.19,-75.02,POINT (-75.02 4.19),TOLIMA
+Restaurante 964,China,3.7,22,73,4.09,-74.39,POINT (-74.39 4.09),CUNDINAMARCA
+Restaurante 965,Peruana,3.2,25,189,4.6,-75.42,POINT (-75.42 4.6),TOLIMA
+Restaurante 966,China,1.0,39,365,5.18,-76.21,POINT (-76.21 5.18),RISARALDA
+Restaurante 967,Francesa,1.2,40,389,5.04,-75.59,POINT (-75.59 5.04),CALDAS
+Restaurante 968,Peruana,1.8,14,425,4.13,-76.17,POINT (-76.17 4.13),VALLE DEL CAUCA
+Restaurante 969,Colombiana,1.7,41,127,6.07,-76.46,POINT (-76.46 6.07),CHOCO
+Restaurante 970,Colombiana,2.0,25,263,3.73,-74.7,POINT (-74.7 3.73),TOLIMA
+Restaurante 971,Japonesa,2.2,18,65,3.52,-75.93,POINT (-75.93 3.52),TOLIMA
+Restaurante 972,Colombiana,2.4,31,78,5.21,-76.5,POINT (-76.5 5.21),CHOCO
+Restaurante 973,Japonesa,2.7,49,465,3.77,-74.41,POINT (-74.41 3.77),BOGOTA D.C.
+Restaurante 974,Colombiana,1.4,46,424,4.91,-75.43,POINT (-75.43 4.91),CALDAS
+Restaurante 975,Mexicana,1.2,23,340,6.26,-75.93,POINT (-75.93 6.26),ANTIOQUIA
+Restaurante 976,Italiana,3.7,25,92,5.5,-75.87,POINT (-75.87 5.5),ANTIOQUIA
+Restaurante 977,Colombiana,3.1,29,401,5.25,-75.92,POINT (-75.92 5.25),RISARALDA
+Restaurante 978,Italiana,2.8,24,424,5.12,-76.03,POINT (-76.03 5.12),RISARALDA
+Restaurante 979,China,3.5,35,102,3.94,-74.48,POINT (-74.48 3.94),CUNDINAMARCA
+Restaurante 980,Francesa,4.3,18,325,4.7,-76.09,POINT (-76.09 4.7),VALLE DEL CAUCA
+Restaurante 981,Peruana,2.7,10,420,4.43,-75.15,POINT (-75.15 4.43),TOLIMA
+Restaurante 982,Peruana,3.6,44,281,6.26,-76.31,POINT (-76.31 6.26),ANTIOQUIA
+Restaurante 983,China,4.8,29,261,4.13,-74.22,POINT (-74.22 4.13),BOGOTA D.C.
+Restaurante 984,Colombiana,4.4,15,57,4.81,-75.05,POINT (-75.05 4.81),TOLIMA
+Restaurante 985,Peruana,2.7,19,171,6.21,-74.33,POINT (-74.33 6.21),SANTANDER
+Restaurante 986,Japonesa,3.6,42,91,5.77,-75.55,POINT (-75.55 5.77),ANTIOQUIA
+Restaurante 987,China,1.7,25,382,6.29,-74.55,POINT (-74.55 6.29),ANTIOQUIA
+Restaurante 988,Mexicana,3.2,45,282,5.22,-74.45,POINT (-74.45 5.22),CUNDINAMARCA
+Restaurante 989,Italiana,4.9,15,119,4.4,-74.81,POINT (-74.81 4.4),CUNDINAMARCA
+Restaurante 990,Japonesa,3.1,28,416,5.88,-76.28,POINT (-76.28 5.88),CHOCO
+Restaurante 991,Peruana,4.7,40,65,4.27,-76.46,POINT (-76.46 4.27),VALLE DEL CAUCA
+Restaurante 992,Japonesa,2.6,11,118,3.89,-76.1,POINT (-76.1 3.89),VALLE DEL CAUCA
+Restaurante 993,Colombiana,5.0,27,102,5.52,-76.22,POINT (-76.22 5.52),CHOCO
+Restaurante 994,Mexicana,3.3,37,222,5.32,-74.76,POINT (-74.76 5.32),CALDAS
+Restaurante 995,Italiana,1.2,13,484,6.04,-75.16,POINT (-75.16 6.04),ANTIOQUIA
+Restaurante 996,Mexicana,3.3,10,311,6.29,-75.24,POINT (-75.24 6.29),ANTIOQUIA
+Restaurante 997,China,2.1,25,428,5.97,-75.89,POINT (-75.89 5.97),ANTIOQUIA
+Restaurante 998,Colombiana,1.1,11,338,3.58,-76.13,POINT (-76.13 3.58),VALLE DEL CAUCA
+Restaurante 999,Japonesa,4.3,45,64,5.39,-76.0,POINT (-76 5.39),RISARALDA
+Restaurante 1000,Japonesa,2.1,10,319,5.75,-75.54,POINT (-75.54 5.75),ANTIOQUIA

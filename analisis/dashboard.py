@@ -2,11 +2,11 @@
 app.py
 ------
 Dashboard interactivo (Dash + Plotly + Folium) para analizar restaurantes
-en varias ciudades de Colombia, con énfasis en Bogotá.
+en varios departamentos de Colombia.
 
 Cómo ejecutar:
     1. pip install -r requirements.txt
-    2. python app.py
+    2. python dashboard.py
     3. Abrir http://127.0.0.1:8050 en el navegador
 
 Estructura del dashboard (pestañas):
@@ -26,8 +26,8 @@ from folium.plugins import MarkerCluster
 # ----------------------------------------------------------------------
 df = pd.read_csv("restaurantes_colombia.csv")
 
-ciudades_disponibles = sorted(df["ciudad"].unique())
-categorias_disponibles = sorted(df["categoria"].unique())
+departamentos_disponibles = sorted(df["departamento"].unique())
+categorias_disponibles = sorted(df["Categoría"].unique())
 
 # ----------------------------------------------------------------------
 # 2. Inicialización de la app
@@ -47,7 +47,7 @@ app.layout = html.Div(
         ),
         html.P(
             "Explora patrones entre categoría gastronómica, calificación, precio "
-            "y popularidad en distintas ciudades, con foco especial en Bogotá.",
+            "y popularidad en distintos departamentos.",
             style={"textAlign": "center", "color": "#555"},
         ),
 
@@ -66,13 +66,13 @@ app.layout = html.Div(
             children=[
                 html.Div(
                     [
-                        html.Label("Ciudad(es):", style={"fontWeight": "bold"}),
+                        html.Label("Departamento(s):", style={"fontWeight": "bold"}),
                         dcc.Dropdown(
-                            id="filtro-ciudad",
-                            options=[{"label": c, "value": c} for c in ciudades_disponibles],
+                            id="filtro-departamento",
+                            options=[{"label": c, "value": c} for c in departamentos_disponibles],
                             value=["Bogotá"],
                             multi=True,
-                            placeholder="Selecciona una o más ciudades",
+                            placeholder="Selecciona una o más departamentos",
                         ),
                     ],
                     style={"minWidth": "320px"},
@@ -92,12 +92,12 @@ app.layout = html.Div(
                 ),
                 html.Div(
                     [
-                        html.Label("Rango de precio (COP):", style={"fontWeight": "bold"}),
+                        html.Label("Rango de precio (USD):", style={"fontWeight": "bold"}),
                         dcc.RangeSlider(
                             id="filtro-precio",
-                            min=int(df["precio_promedio"].min()),
-                            max=int(df["precio_promedio"].max()),
-                            value=[int(df["precio_promedio"].min()), int(df["precio_promedio"].max())],
+                            min=int(df["Precio promedio (USD)"].min()),
+                            max=int(df["Precio promedio (USD)"].max()),
+                            value=[int(df["Precio promedio (USD)"].min()), int(df["Precio promedio (USD)"].max())],
                             tooltip={"placement": "bottom", "always_visible": False},
                             allowCross=False,
                         ),
@@ -128,13 +128,13 @@ app.layout = html.Div(
 # ----------------------------------------------------------------------
 # 4. Función auxiliar: aplicar filtros
 # ----------------------------------------------------------------------
-def filtrar_datos(ciudades, categorias, rango_precio):
-    ciudades = ciudades or ciudades_disponibles
+def filtrar_datos(departamentos, categorias, rango_precio):
+    departamentos = departamentos or departamentos_disponibles
     categorias = categorias or categorias_disponibles
     dff = df[
-        df["ciudad"].isin(ciudades)
-        & df["categoria"].isin(categorias)
-        & df["precio_promedio"].between(rango_precio[0], rango_precio[1])
+        df["departamento"].isin(departamentos)
+        & df["Categoría"].isin(categorias)
+        & df["Precio promedio (USD)"].between(rango_precio[0], rango_precio[1])
     ]
     return dff
 
@@ -144,12 +144,12 @@ def filtrar_datos(ciudades, categorias, rango_precio):
 # ----------------------------------------------------------------------
 @app.callback(
     Output("kpi-cards", "children"),
-    Input("filtro-ciudad", "value"),
+    Input("filtro-departamento", "value"),
     Input("filtro-categoria", "value"),
     Input("filtro-precio", "value"),
 )
-def actualizar_kpis(ciudades, categorias, rango_precio):
-    dff = filtrar_datos(ciudades, categorias, rango_precio)
+def actualizar_kpis(departamentos, categorias, rango_precio):
+    dff = filtrar_datos(departamentos, categorias, rango_precio)
 
     def tarjeta(titulo, valor, color):
         return html.Div(
@@ -173,9 +173,9 @@ def actualizar_kpis(ciudades, categorias, rango_precio):
 
     return [
         tarjeta("Restaurantes", f"{len(dff):,}", "#2c3e50"),
-        tarjeta("Calificación prom.", f"{dff['calificacion'].mean():.2f} ⭐", "#e67e22"),
-        tarjeta("Precio promedio", f"${dff['precio_promedio'].mean():,.0f} COP", "#27ae60"),
-        tarjeta("Reseñas totales", f"{dff['num_resenas'].sum():,}", "#2980b9"),
+        tarjeta("Calificación prom.", f"{dff['Calificación'].mean():.2f} ⭐", "#e67e22"),
+        tarjeta("Precio promedio", f"${dff['Precio promedio (USD)'].mean():,.0f} COP", "#27ae60"),
+        tarjeta("Reseñas totales", f"{dff['Número de reseñas'].sum():,}", "#2980b9"),
     ]
 
 
@@ -185,12 +185,12 @@ def actualizar_kpis(ciudades, categorias, rango_precio):
 @app.callback(
     Output("contenido-tab", "children"),
     Input("tabs", "value"),
-    Input("filtro-ciudad", "value"),
+    Input("filtro-departamento", "value"),
     Input("filtro-categoria", "value"),
     Input("filtro-precio", "value"),
 )
-def renderizar_tab(tab, ciudades, categorias, rango_precio):
-    dff = filtrar_datos(ciudades, categorias, rango_precio)
+def renderizar_tab(tab, departamentos, categorias, rango_precio):
+    dff = filtrar_datos(departamentos, categorias, rango_precio)
 
     if dff.empty:
         return html.Div(
@@ -204,32 +204,34 @@ def renderizar_tab(tab, ciudades, categorias, rango_precio):
     if tab == "tab-dispersión":
         fig_burbujas = px.scatter(
             dff,
-            x="calificacion",
-            y="precio_promedio",
-            size="num_resenas",
-            color="categoria",
-            hover_name="restaurante",
-            hover_data={"ciudad": True, "num_resenas": True},
+            x="Calificación",
+            y="Precio promedio (USD)",
+            size="Número de reseñas",
+            color="Categoría",
+            hover_name="Nombre",
+            hover_data={"departamento": True, "Número de reseñas": True},
             size_max=45,
             title="Calificación vs. Precio promedio (tamaño = número de reseñas)",
             labels={
-                "calificacion": "Calificación",
-                "precio_promedio": "Precio promedio (COP)",
-                "categoria": "Categoría",
+                "Calificación": "Calificación",
+                "Precio promedio (USD)": "Precio promedio (USD)",
+                "Categoría": "Categoría",
             },
         )
         fig_burbujas.update_layout(height=550, legend_title_text="Categoría")
 
         # Popularidad por categoría (promedio de reseñas)
         resumen_categoria = (
-            dff.groupby("categoria")
-            .agg(num_resenas=("num_resenas", "mean"), calificacion=("calificacion", "mean"), n=("restaurante", "count"))
+            dff.groupby("Categoría")
+            .agg(num_resenas=("Número de reseñas", "mean"),
+                  calificacion=("Calificación", "mean"), 
+                  n=("Categoría", "count"))
             .reset_index()
             .sort_values("num_resenas", ascending=False)
         )
         fig_popularidad = px.bar(
             resumen_categoria,
-            x="categoria",
+            x="Categoría",
             y="num_resenas",
             color="calificacion",
             color_continuous_scale="Oranges",
@@ -238,16 +240,16 @@ def renderizar_tab(tab, ciudades, categorias, rango_precio):
         )
         fig_popularidad.update_layout(height=450, xaxis_tickangle=-30)
 
-        # Precio promedio por ciudad y categoría (mapa de calor tipo tabla)
+        # Precio promedio por departamento y categoría (mapa de calor tipo tabla)
         pivot_precio = dff.pivot_table(
-            index="categoria", columns="ciudad", values="precio_promedio", aggfunc="mean"
+            index="Categoría", columns="departamento", values="Precio promedio (USD)", aggfunc="mean"
         )
         fig_heatmap = px.imshow(
             pivot_precio,
             text_auto=".0f",
             color_continuous_scale="YlGnBu",
             aspect="auto",
-            title="Precio promedio por categoría y ciudad (COP)",
+            title="Precio promedio por categoría y departamento (USD)",
             labels={"color": "Precio prom."},
         )
         fig_heatmap.update_layout(height=500)
@@ -271,45 +273,45 @@ def renderizar_tab(tab, ciudades, categorias, rango_precio):
     elif tab == "tab-correlaciones":
         fig_reg_precio_calif = px.scatter(
             dff,
-            x="calificacion",
-            y="precio_promedio",
-            color="ciudad",
+            x="Calificación",
+            y="Precio promedio (USD)",
+            color="departamento",
             trendline="ols",
             trendline_scope="overall",
             title="Regresión: Calificación vs. Precio promedio",
-            labels={"calificacion": "Calificación", "precio_promedio": "Precio promedio (COP)"},
+            labels={"Calificación": "Calificación", "Precio promedio (USD)": "Precio promedio (USD)"},
             opacity=0.55,
         )
         fig_reg_precio_calif.update_layout(height=500)
 
         fig_reg_resenas_calif = px.scatter(
             dff,
-            x="calificacion",
-            y="num_resenas",
-            color="categoria",
+            x="Calificación",
+            y="Número de reseñas",
+            color="Categoría",
             trendline="ols",
             trendline_scope="overall",
             title="Regresión: Calificación vs. Número de reseñas",
-            labels={"calificacion": "Calificación", "num_resenas": "Número de reseñas"},
+            labels={"Calificación": "Calificación", "Número de reseñas": "Número de reseñas"},
             opacity=0.55,
         )
         fig_reg_resenas_calif.update_layout(height=500)
 
         fig_reg_precio_resenas = px.scatter(
             dff,
-            x="num_resenas",
-            y="precio_promedio",
-            color="ciudad",
+            x="Número de reseñas",
+            y="Precio promedio (USD)",
+            color="departamento",
             trendline="ols",
             trendline_scope="overall",
             title="Regresión: Número de reseñas vs. Precio promedio",
-            labels={"num_resenas": "Número de reseñas", "precio_promedio": "Precio promedio (COP)"},
+            labels={"Número de reseñas": "Número de reseñas", "Precio promedio (USD)": "Precio promedio (USD)"},
             opacity=0.55,
         )
         fig_reg_precio_resenas.update_layout(height=500)
 
         # Matriz de correlación numérica
-        corr = dff[["calificacion", "precio_promedio", "num_resenas"]].corr().round(2)
+        corr = dff[["Calificación", "Precio promedio (USD)", "Número de reseñas"]].corr().round(2)
         fig_corr = px.imshow(
             corr,
             text_auto=True,
@@ -333,8 +335,8 @@ def renderizar_tab(tab, ciudades, categorias, rango_precio):
     # PESTAÑA 3: Mapa geoespacial (Folium)
     # ------------------------------------------------------------------
     elif tab == "tab-mapa":
-        centro_lat = dff["latitud"].mean()
-        centro_lon = dff["longitud"].mean()
+        centro_lat = dff["Latitud"].mean()
+        centro_lon = dff["Longitud"].mean()
 
         mapa = folium.Map(location=[centro_lat, centro_lon], zoom_start=6, tiles="OpenStreetMap")
         cluster = MarkerCluster().add_to(mapa)
@@ -346,17 +348,17 @@ def renderizar_tab(tab, ciudades, categorias, rango_precio):
         }
 
         for _, fila in dff.iterrows():
-            color = color_por_categoria.get(fila["categoria"], "#3388ff")
+            color = color_por_categoria.get(fila["Categoría"], "#3388ff")
             popup_html = (
-                f"<b>{fila['restaurante']}</b><br>"
-                f"Ciudad: {fila['ciudad']}<br>"
-                f"Categoría: {fila['categoria']}<br>"
-                f"Calificación: {fila['calificacion']} ⭐<br>"
-                f"Precio: ${fila['precio_promedio']:,.0f} COP<br>"
-                f"Reseñas: {fila['num_resenas']}"
+                f"<b>{fila['Nombre']}</b><br>"
+                f"Departamento: {fila['departamento']}<br>"
+                f"Categoría: {fila['Categoría']}<br>"
+                f"Calificación: {fila['Calificación']} ⭐<br>"
+                f"Precio: ${fila['Precio promedio (USD)']:,.0f} COP<br>"
+                f"Reseñas: {fila['Número de reseñas']}"
             )
             folium.CircleMarker(
-                location=[fila["latitud"], fila["longitud"]],
+                location=[fila["Latitud"], fila["Longitud"]],
                 radius=5,
                 color=color,
                 fill=True,
